@@ -1,0 +1,3296 @@
+{
+    "RX - Preparation of Halogenoalkanes": [
+        [
+            0,
+            "Hi everyone, welcome back to the lecture series on halogen derivatives."
+        ],
+        [
+            6,
+            "In this lecture video, we will discuss on the preparation of halogenoalkanes."
+        ],
+        [
+            12,
+            "By the end of this lecture video, you will be able to answer the following questions."
+        ],
+        [
+            18,
+            "How do we prepare halogenoalkanes in the lab? What are the static materials as well as the reagents and conditions required to form halogenoalkanes? Let's begin."
+        ],
+        [
+            30,
+            "You can find this schematic diagram on page 5 of the lecture notes."
+        ],
+        [
+            34,
+            "How do you use this schematic diagram? From this schematic diagram, you will be able to realise that there are 3 main static materials in which you can use to produce halogenoalkanes."
+        ],
+        [
+            47,
+            "First is alkane."
+        ],
+        [
+            50,
+            "Second static material that you can use is alkene."
+        ],
+        [
+            54,
+            "The last static material that you can use is alcohol."
+        ],
+        [
+            58,
+            "Let's take a look into each of these in greater detail."
+        ],
+        [
+            62,
+            "If you want to prepare halogenoalkanes from alkanes, you will have to carry out a free radical substitution on alkane."
+        ],
+        [
+            70,
+            "The free radical substitution of alkanes is very difficult to be controlled, and therefore, pulley substitution can occur."
+        ],
+        [
+            79,
+            "In the event that you want to produce mono-substituted halogenoalkane, you will need to use limited amount of either chlorine or bromine with UV light or sunlight or heat."
+        ],
+        [
+            92,
+            "If you want to produce halogenoalkanes from alkenes, you will first need to determine whether you want to form mono-substituted halogenoalkane or you want a di-substituted halogenoalkane."
+        ],
+        [
+            106,
+            "If you want to produce only one halogen atom per molecule, then you will have to use dry gaseous HX, X being either chlorine, bromine or iodine in room temperature, and carry out an electrophilic addition reaction on the alkenes."
+        ],
+        [
+            121,
+            "If you want to form halogenoalkanes with two adjacent halogen atoms per molecule, you will then need to use either bromine or chlorine in CCl4 in room temperature via electrophilic addition."
+        ],
+        [
+            136,
+            "halogenoalkanes with two adjacent halogen atoms per molecule is also known as vicinal dihalide."
+        ],
+        [
+            144,
+            "In the event that you want to form mixed vicinal dihalide in which there are two different adjacent halogens, as the example has shown, you can use a mix of halogen to produce the product."
+        ],
+        [
+            158,
+            "In this case, we can use IVR to produce a halogenoalkane in which both iodine and bromine exist in the product."
+        ],
+        [
+            167,
+            "Usually, we will form halogenoalkanes from alcohols."
+        ],
+        [
+            174,
+            "And in this reaction, what actually happens is that the bond between C and O is broken, and then that CO bond is being replaced by a formation of a CX bond."
+        ],
+        [
+            188,
+            "You can also view this as a substitution reaction in which the OH is substituted to form X."
+        ],
+        [
+            197,
+            "This type of reaction is what we call nucleophilic substitution reaction."
+        ],
+        [
+            202,
+            "We will discuss this reaction mechanism in detail later on."
+        ],
+        [
+            207,
+            "But for now, we are going to focus on the reagent and condition in which we can convert alcohol into halogenoalkane."
+        ],
+        [
+            216,
+            "There are four main reagent and condition to carry out this substitution reaction, and we are going to look into each of these in detail."
+        ],
+        [
+            227,
+            "Firstly, using dry hydrogen halide and heat."
+        ],
+        [
+            232,
+            "If you want to substitute chloride, you should use hydrogen chloride with heat."
+        ],
+        [
+            237,
+            "If you want to get bromide, then use HBr."
+        ],
+        [
+            237,
+            "If you want to get iodide, then use HI. If you want to get bromide, then use HBr. If you want to get iodide, then use HI."
+        ],
+        [
+            246,
+            "Some other things to take note."
+        ],
+        [
+            249,
+            "The reaction with hydrogen chloride and heat can also be carried out in the presence of zinc chloride, which is a Lewis acid."
+        ],
+        [
+            260,
+            "Alternatively, the reaction can also be carried out using concentrated HCl."
+        ],
+        [
+            267,
+            "In the H2 context, it is sufficient for you to mention the use of dry HCl with heat when you are asked to state the reagent and condition to carry out this transformation."
+        ],
+        [
+            281,
+            "Similarly, for hydrogen bromide and heat, it is sufficient for you to quote dry hydrogen bromide with heat."
+        ],
+        [
+            288,
+            "However, hydrogen bromide can also be produced in situ using KBr and H2SO4, and therefore, sometimes you will see that the reaction is written in this manner."
+        ],
+        [
+            302,
+            "Similarly, HI can also be generated in situ using potassium iodide and H3PO4, and it is sometimes also written in this manner."
+        ],
+        [
+            313,
+            "Moving on, the nucleophilic substitution of alcohol to then form halogenoalkene can also be carried out using phosphorus trihalide, with X being either Cl, Br or I only."
+        ],
+        [
+            326,
+            "Do take note that PI3 is actually not stable, and therefore, you need to generate PI3 in situ using red phosphorus with iodine."
+        ],
+        [
+            340,
+            "In all of these reactions, anhydrous condition must be used."
+        ],
+        [
+            346,
+            "The reason for that is because PX3 or phosphorus trihalides react with water."
+        ],
+        [
+            353,
+            "You can find information about that in the periodic table 1."
+        ],
+        [
+            358,
+            "Moving on, you can also use phosphorus pentachloride to produce the corresponding chloroalkene."
+        ],
+        [
+            366,
+            "If you look at the product, you'll notice that HCl will be produced together with POCl3 and the halogenoalkene."
+        ],
+        [
+            375,
+            "This reaction can be used to test for the alcoholic OH group, because you can observe the white fumes of hydrogen chloride being formed, and this gas turns them blue in mass-paper rate."
+        ],
+        [
+            390,
+            "Similarly, this reaction must also be carried out in anhydrous condition."
+        ],
+        [
+            398,
+            "Lastly, we can also use thionyl chloride or sulfur dichloride oxide to carry out the reaction."
+        ],
+        [
+            406,
+            "This reaction is usually preferred than those of PCl3 or PCl5 because the side products are gases that will leave the system."
+        ],
+        [
+            417,
+            "SOBr2 is also available, but then it is less stable and less widely used than SOCl2."
+        ],
+        [
+            426,
+            "We have been talking about four different types of reagent and condition, and it might be confusing to you to determine which reagent and condition you should state when it comes to A-level."
+        ],
+        [
+            440,
+            "Hence, we summarise it in the table for you."
+        ],
+        [
+            444,
+            "When you want to carry out a reaction of alcohol to produce the corresponding chloroalkene, you can use either phosphorus pentachloride or SOCl2 in room temperature."
+        ],
+        [
+            457,
+            "When you want to produce bromoalkene, you can use either PBr3 or dry HBr with heat."
+        ],
+        [
+            467,
+            "In the event that you want to make iodoalkene, the reagent and condition that you should state is red phosphorus with iodine."
+        ],
+        [
+            479,
+            "Now, let's see whether we know the answer to these questions."
+        ],
+        [
+            484,
+            "How do we prepare halogenoalkenes in the lab? What are the starting materials? The starting materials that we can use is alkanes, alkenes and alcohol."
+        ],
+        [
+            498,
+            "Alkanes undergo free radical substitution to produce the corresponding halogenoalkene."
+        ],
+        [
+            503,
+            "Alkenes undergo electrophilic addition reaction, whereas alcohol will undergo nucleophilic substitution reaction to form the corresponding halogenoalkene."
+        ],
+        [
+            515,
+            "The reagent and condition for alkanes and alkenes are somewhat familiar to you."
+        ],
+        [
+            521,
+            "As for alcohol, please refer to the summary table that I just went through."
+        ],
+        [
+            527,
+            "With that, I'll see you in the next lecture video."
+        ]
+    ],
+    "RX - SN1 Mechanism": [
+        [
+            0,
+            "Hi everyone, in this lecture video you'll learn about SN1 mechanism."
+        ],
+        [
+            5,
+            "By the end of this lecture video, you'll be able to answer the following questions."
+        ],
+        [
+            9,
+            "What is SN1 mechanism? What are the factors affecting the reactivity of halogenoalkanes in SN1 mechanism? Earlier on, in page 10 of your lecture notes, we have summarized that for SN2 mechanism, the kinetics of that show that the rate is directly proportional to the nucleophile and therefore it is a bimolecular reaction mechanism."
+        ],
+        [
+            33,
+            "In the previous lecture video, you also learned that there is inversion of stereochemistry and therefore when you start with enantiomerically pure reactant, it should give you enantiomerically pure product."
+        ],
+        [
+            46,
+            "In SN1 mechanism though, the rate is found to be independent of the nucleophile and it's only dependent on the concentration of halogenoalkane."
+        ],
+        [
+            57,
+            "This tells us that for SN1 mechanism, the reaction proceeds unimolecularly."
+        ],
+        [
+            64,
+            "On top of that, in terms of stereochemistry, it was mentioned that in SN1 mechanism, if you use enantiomerically pure reactant, it should give racemic mixture of product and therefore racemization actually occurred."
+        ],
+        [
+            79,
+            "Let's talk about these in a greater detail and let's begin and look into what's SN1 mechanism."
+        ],
+        [
+            86,
+            "In A-level, the SN1 mechanism is described as the following two steps reaction."
+        ],
+        [
+            92,
+            "We will look into these two steps in greater details very soon but for now, let's see what SN1 mean."
+        ],
+        [
+            101,
+            "You already know if you are asked to write the mechanism of this reaction, you will name this mechanism SN1."
+        ],
+        [
+            109,
+            "S stands for substitution and nucleophilic, 1 stands for unimolecular reaction in which it means that there is only one reactant particle involved in the rate determining step."
+        ],
+        [
+            122,
+            "And as you can see from the step 1 and step 2 displayed on the screen, you realise that in step 1 which is the slow step and therefore rate determining step, there is only one reactant particle involved."
+        ],
+        [
+            134,
+            "Let's go into the details of SN1 mechanism."
+        ],
+        [
+            137,
+            "In the step 1 of the mechanism, the polar CX bond will undergo heterolytic fission to produce the intermediate carbocation and this carbocation is trigonal planar with respect to the positively charged carbon following which, step 2 in which nucleophilic attack on carbocation will occur."
+        ],
+        [
+            160,
+            "Now, knowing that the carbocation is trigonal planar, when the nucleophile attack the carbocation, it can attack the carbocation from two different planes."
+        ],
+        [
+            171,
+            "If you take a look at the carbocation intermediate that is on the screen, you will realise that this carbocation is perpendicular to the plane of the screen and therefore the nucleophile can attack from the left hand side of the plane in this manner and we will name this pathway A or from the right hand side in this manner and we will name this pathway B."
+        ],
+        [
+            194,
+            "As we already know, since the carbocation is planar, what's going to happen is that both pathway A and B will occur with equal likelihood."
+        ],
+        [
+            204,
+            "When pathway A occurs, it will then produce this product of this stereochemistry."
+        ],
+        [
+            211,
+            "If pathway B occurs, it will then produce this product."
+        ],
+        [
+            215,
+            "Comparing it with the halogenoalkene which is a starting material, you will be able to see that if the nucleophile attack via pathway A, it will produce inversion of configuration in the product."
+        ],
+        [
+            229,
+            "Similarly, if the nucleophile attack from pathway B, there is a retention of configuration as compared to the starting material."
+        ],
+        [
+            240,
+            "Because of the equal likelihood of these two pathway, the reaction will produce equal amount of both products."
+        ],
+        [
+            249,
+            "The product is actually enantiomer of each other and therefore we will name this a racemic mixture."
+        ],
+        [
+            257,
+            "Now that you have learnt this, let's try this yourself."
+        ],
+        [
+            261,
+            "Please attempt this question ensuring that every single item in the checklist is featured in your answer."
+        ],
+        [
+            267,
+            "You may pause the lecture video here and only continue when you are done attempting."
+        ],
+        [
+            274,
+            "Alright, I think you are done attempting this."
+        ],
+        [
+            276,
+            "Okay, let's see how to go about doing this."
+        ],
+        [
+            279,
+            "First, write the name of the mechanism, that's SN1."
+        ],
+        [
+            283,
+            "Let's locate where is the C-Br bond and then label delta plus and delta minus accordingly."
+        ],
+        [
+            291,
+            "The moment there is more than one step, always ensure that you label the slow and fast step."
+        ],
+        [
+            298,
+            "The first step is going to be slower than the second step because the first step involves breaking of bond."
+        ],
+        [
+            305,
+            "Let's show the arrow pushing for step 1."
+        ],
+        [
+            309,
+            "Draw the arrow pushing for heterolytic fission of C-Br bond and then draw the product for that."
+        ],
+        [
+            316,
+            "Please bear in mind that the product of step 1 is the corresponding carbocation."
+        ],
+        [
+            321,
+            "Some of you may be wondering do I need to use wedges and dotted for the other two R groups, in this case the hydrogen and the ethyl group."
+        ],
+        [
+            331,
+            "The answer to that is there is no need to."
+        ],
+        [
+            334,
+            "We know that carbocation is trigonal planar."
+        ],
+        [
+            338,
+            "However, if you did not use this plane, in step 2 of the reaction, you must ensure that you show clearly that the attack goes from the two sides, which are the front and the back side of the carbocation that you have drawn."
+        ],
+        [
+            354,
+            "Now that we are done with step 1, let's take a look at step 2."
+        ],
+        [
+            358,
+            "Step 2 is the one in which the nucleophile will attack the carbocation and hence we need to show the lone pair of electrons on the nucleophile."
+        ],
+        [
+            367,
+            "Once we have this, you do need to show the two sides of the reactions and therefore pathway A and pathway B."
+        ],
+        [
+            376,
+            "Show the curly arrows and then show that the nucleophile attacks from either face."
+        ],
+        [
+            383,
+            "Lastly, draw the two products which is a pair of enantiomer of each other."
+        ],
+        [
+            389,
+            "Okay, let's move on to discuss a bit more about stereochemistry and kinetics of SN1 reaction."
+        ],
+        [
+            396,
+            "In SN1 reaction, we have mentioned that there is racemisation that occurred."
+        ],
+        [
+            402,
+            "We start off with a pure sample of one enantiomer in which it is optically active and the reaction proceeds via SN1 reaction."
+        ],
+        [
+            412,
+            "We will give off two products in which the first one involves formation of retention of configuration and the other one which is inversion of configuration."
+        ],
+        [
+            424,
+            "These two products are enantiomer of each other and it is produced in equal amounts."
+        ],
+        [
+            430,
+            "Why does it produce in equal amounts? It's because there is an equal probability of attacking the carbocation from both sides."
+        ],
+        [
+            439,
+            "Hence, it will produce a racemic mixture that is optically inactive."
+        ],
+        [
+            444,
+            "And hence, SN1 is said to occur with racemisation."
+        ],
+        [
+            449,
+            "In short, a reaction that transforms an optically active compound into racemic form of product is said to proceed with racemisation."
+        ],
+        [
+            460,
+            "The SN1 mechanism accounts for racemisation."
+        ],
+        [
+            465,
+            "Let's see if the rate of reaction tallies with what we proposed."
+        ],
+        [
+            470,
+            "The step one of SN1 mechanism is the slow step."
+        ],
+        [
+            474,
+            "The step two is the fast step."
+        ],
+        [
+            477,
+            "First thing first, there is two steps of reaction and we have already learned under reaction kinetic that the slow step is the rate determining step and therefore, that's the step that we are going to look at when we are writing the rate equation."
+        ],
+        [
+            493,
+            "Since the slow step involves only halogenoalkene, we can then write the rate equation as such."
+        ],
+        [
+            500,
+            "The overall order of reaction is 1."
+        ],
+        [
+            503,
+            "This mechanism matches the observed kinetics of the reaction."
+        ],
+        [
+            509,
+            "In conclusion, the SN1 mechanism matches both the stereochemistry observation as well as the kinetic observation of SN1 type of reaction."
+        ],
+        [
+            521,
+            "Now let's move on to look at the energy profile of SN1 reaction."
+        ],
+        [
+            526,
+            "Since it is a two step reaction, we will then know that there are two EAs that are involved, one for the slow step, the other one for the fast step."
+        ],
+        [
+            536,
+            "What is interesting to take note is that the carbocation intermediate will be at the energy level that is higher than that of both the reactants and the products."
+        ],
+        [
+            547,
+            "However, the fact that the intermediate can actually be obtained, it means that the energy level of this is lower than the transition states."
+        ],
+        [
+            556,
+            "Now what are the things that you need to take note of when you draw energy profile of SN1 reaction? First, let's take a look at all of the things that we can label."
+        ],
+        [
+            567,
+            "Firstly, we can definitely label the delta H of the reaction."
+        ],
+        [
+            571,
+            "Secondly, we can label the EA of step 1."
+        ],
+        [
+            576,
+            "We can also label the EA of step 2."
+        ],
+        [
+            580,
+            "Some of you may be wondering, how do I know if the first transition state will be at a higher energy level or lower energy level than the second transition state? What it means is, how do I know that the topmost point of step 1 is higher than the step 2? In H2, you do not really need to care about it."
+        ],
+        [
+            601,
+            "What matters is the understanding that since the first step is slow, EA of step 1 should be greater than that of step 2."
+        ],
+        [
+            612,
+            "The height of the transition state does not matter."
+        ],
+        [
+            617,
+            "Let's now take a look at the video for SN1 reaction."
+        ],
+        [
+            647,
+            "The first step reacts via a transition state complex to form a carbocation."
+        ],
+        [
+            653,
+            "The second step has a much lower activation energy, EA2, and hence is considerably faster than the first step."
+        ],
+        [
+            661,
+            "The carbocation reacts with a nucleophilic hydroxide ion in the transition state to form the product 2-methylpropen-2-ol."
+        ],
+        [
+            678,
+            "Transition state."
+        ],
+        [
+            681,
+            "Carbocation."
+        ],
+        [
+            686,
+            "EA2."
+        ],
+        [
+            693,
+            "SN1 reaction."
+        ],
+        [
+            699,
+            "Alright, I hope the video actually helped you to visualise the reaction."
+        ],
+        [
+            703,
+            "Let's move on to talk about factors affecting the reactivity of halogenoalkane in SN1."
+        ],
+        [
+            710,
+            "Similar to that of SN2 reactions, there are two factors affecting the reactivity."
+        ],
+        [
+            717,
+            "The first one is strength of carbon-halogen bond."
+        ],
+        [
+            720,
+            "The second one is the stability of the carbocation."
+        ],
+        [
+            724,
+            "As for the strength of carbon-halogen bond, it goes without saying that the strength does matter."
+        ],
+        [
+            731,
+            "The step 1 of the reaction, which is the slow step, involves heterolytic fission of the CX bond to produce the carbocation."
+        ],
+        [
+            740,
+            "And therefore, the weaker the CX bond is, the faster the rate of the reaction."
+        ],
+        [
+            746,
+            "In terms of order of reactivity, fluoroalkane will have no reaction, whereas iodoalkane will be the fastest to react in comparison to the rest."
+        ],
+        [
+            758,
+            "This has the same order as that of the halogenoalkane towards SN2 reaction."
+        ],
+        [
+            764,
+            "The above order arises because of the CX bond strength decreases in the following order."
+        ],
+        [
+            771,
+            "The second factor, the stability of carbocation in SN1 reactions."
+        ],
+        [
+            776,
+            "The rate of SN1 reaction depends on the rate of formation of carbocation."
+        ],
+        [
+            781,
+            "The more stable the carbocation, the faster it will form the intermediate."
+        ],
+        [
+            788,
+            "Hence, a rate of SN1 reaction increases as the stability of carbocation increases."
+        ],
+        [
+            796,
+            "In terms of stability of carbocation, the increasing number of electron-donating alkyl group attached to the carbon that is positively charged, the more stable the carbocation is."
+        ],
+        [
+            808,
+            "The order of reactivity of halogenoalkane with the same X atom towards SN1 reaction will then increase in the following order, in which the tertiary halogenoalkane will be the most reactive towards SN1 mechanism."
+        ],
+        [
+            823,
+            "Let's conclude what we learned in this lecture video."
+        ],
+        [
+            827,
+            "In order to answer what is SN1 mechanism, we know that SN1 mechanism proceeds via unimolecular type of reaction in its rate-determining step."
+        ],
+        [
+            838,
+            "And there is two steps in SN1 mechanism, in which step 1 is the slowest step that involves breaking off the CX bond."
+        ],
+        [
+            848,
+            "In terms of the stereochemistry, SN1 mechanism causes racemization to occur."
+        ],
+        [
+            854,
+            "This is all because of the carbocation intermediate that is being formed."
+        ],
+        [
+            860,
+            "The carbocation intermediate is planar, and therefore it causes equal probability of attack of the nucleophile towards the carbon that is positively charged from both sides."
+        ],
+        [
+            870,
+            "The two factors affecting the reactivity of halogenoalkanes in SN1 mechanism are strength of carbon-halogen bond as well as stability of carbocation."
+        ],
+        [
+            880,
+            "The stronger the CX bond is, the slower the reaction."
+        ],
+        [
+            885,
+            "The more stable the carbocation that is being produced, the faster SN1 reaction will be."
+        ],
+        [
+            893,
+            "With that, I'll see you in the next lecture."
+        ]
+    ],
+    "RX - Characteristic Reactions of Halogenoalkanes": [
+        [
+            0,
+            "Hi everyone! In this part of the lecture, we will discuss about the characteristic reactions of halogenoalkanes."
+        ],
+        [
+            13,
+            "By the end of this lecture video, you will be able to answer the following questions."
+        ],
+        [
+            19,
+            "What are the two characteristic reactions of halogenoalkanes? What is a nucleophilic substitution reaction? What are the two types of mechanism for nucleophilic substitution reaction? As well as, how are the two types of mechanism being derived? Let's begin! The carbon-halogen bond, as we all know, is polar because the halogen atom is more electronegative than the carbon atom."
+        ],
+        [
+            38,
+            "Please note this down. is more electronegative than the carbon atom. Please note this down."
+        ],
+        [
+            45,
+            "Knowing this, we will then be able to realize that the carbon that is covalently bonded to the halogen atom is an electron-deficient site."
+        ],
+        [
+            58,
+            "This means that this carbon atom is electrophilic and therefore it is able to attract nucleophiles such as OH-, CN- and ammonia."
+        ],
+        [
+            66,
+            "Let's do a recap and define what is a nucleophile."
+        ],
+        [
+            75,
+            "A nucleophile is defined as a species that is able to donate an electron pair to an electron-deficient atom to form a covalent bond."
+        ],
+        [
+            82,
+            "Please note this part down."
+        ],
+        [
+            91,
+            "It is also worth noting that if you are asked to define a nucleophile in exam, please include the part that is bolded, which is the term to form a covalent bond."
+        ],
+        [
+            97,
+            "With this in mind, let's take a look at what are the characteristic reactions of halogenoalkanes."
+        ],
+        [
+            104,
+            "halogenoalkanes can react with nucleophile via nucleophilic substitution reaction."
+        ],
+        [
+            111,
+            "Additionally, halogenoalkanes can also react with Bronsted-Lowry base."
+        ],
+        [
+            119,
+            "When halogenoalkanes react with Bronsted-Lowry base, it will undergo an elimination reaction."
+        ],
+        [
+            125,
+            "You can find this schematic diagram at page 8 of your lecture notes."
+        ],
+        [
+            130,
+            "When halogenoalkanes react with nucleophile via nucleophilic substitution reaction, what essentially happens is very similar to that of a preparation of halogenoalkane from alcohol."
+        ],
+        [
+            144,
+            "In this context, the C-X bond will undergo heterolytic fission in which the nucleophile will then be incorporated in the product and the halide ion will be released."
+        ],
+        [
+            158,
+            "We will take a closer look into this reaction at a later part."
+        ],
+        [
+            163,
+            "Let's now take a look at the elimination reaction."
+        ],
+        [
+            167,
+            "In the elimination reaction, what happens is that the base is able to extract the proton from halogenoalkane and then form an alkene."
+        ],
+        [
+            178,
+            "This reaction again is not new."
+        ],
+        [
+            178,
+            "You have learned about this reaction under the topic of alkene. This reaction again is not new. You have learned about this reaction under the topic of alkene."
+        ],
+        [
+            193,
+            "What is interesting is that if we take a look at the common nucleophiles, and let's take OH- as an example, we know that OH- can act as a nucleophile and it can then cause the halogenoalkane to react via nucleophilic substitution reaction."
+        ],
+        [
+            212,
+            "However, OH- is also a good Bronsted-Lowry base and therefore it is able to cause elimination reaction."
+        ],
+        [
+            224,
+            "We will look into each of these two reactions more closely and once we have done that, we will then discuss more about how to determine whether halogenoalkanes undergo nucleophilic substitution reaction or elimination reaction."
+        ],
+        [
+            246,
+            "Let's begin with nucleophilic substitution reaction."
+        ],
+        [
+            251,
+            "This is the general form of nucleophilic substitution reaction involving halogenoalkene."
+        ],
+        [
+            256,
+            "So of course, we'll have halogenoalkane with electron deficient carbon."
+        ],
+        [
+            261,
+            "We'll then have a nucleophile which we already defined as a species that is able to donate an electron pair to form a covalent bond."
+        ],
+        [
+            269,
+            "And when we mix them together, the product of this reaction will include the organic product as well as the halide ion."
+        ],
+        [
+            279,
+            "What is happening in the reaction is the nucleophile will attack the electron pair to attack the electron deficient carbon atom and in the process, the C-X bond will then undergo heterolytic fission."
+        ],
+        [
+            294,
+            "The nucleophile will then be featured in the product whereas the halogen atom will be given out as a halide ion."
+        ],
+        [
+            305,
+            "Nucleophilic substitution reaction may occur via two different type of mechanism."
+        ],
+        [
+            310,
+            "The first type of mechanism is what we call the SN2 mechanism."
+        ],
+        [
+            315,
+            "The second type of mechanism is what we call the SN1 mechanism."
+        ],
+        [
+            321,
+            "Please note these two down."
+        ],
+        [
+            324,
+            "Do also pay a close attention on how SN2 and SN1 mechanism is written."
+        ],
+        [
+            332,
+            "These are the example of a wrong way of writing the mechanism."
+        ],
+        [
+            339,
+            "Please ensure that you've used both capital letter for S and N in which the N is a subscript when you write the mechanism."
+        ],
+        [
+            349,
+            "Anything other than that is not accepted."
+        ],
+        [
+            354,
+            "Now you may be wondering how do I know that there are two types of mechanism? Let's discuss about that a little deeper."
+        ],
+        [
+            367,
+            "A mechanism must match the kinetics of the reaction as well as must be able to account for all observations of the reaction."
+        ],
+        [
+            377,
+            "In chemistry, mechanisms are proposed based on the data obtained from the experiments."
+        ],
+        [
+            384,
+            "And if you take a look at this reaction, the question is then what's the mechanism of this reaction? Chemists actually perform a few experiments to determine the mechanism of this reaction."
+        ],
+        [
+            398,
+            "Let's take a look at the first observation."
+        ],
+        [
+            401,
+            "A pale cream PPT was observed when a resultant mixture was acidified with HNO3 aqueous and AgNO3 aqueous."
+        ],
+        [
+            408,
+            "The formation of pale cream PPT tell us that bromide ion is present in the resultant mixture."
+        ],
+        [
+            414,
+            "Br- ion can only present in the resultant mixture if the C-Br bond is broken."
+        ],
+        [
+            422,
+            "The next two observations give us a glimpse to how the kinetic of the reaction is."
+        ],
+        [
+            428,
+            "It was found that when the concentration of OH- was doubled, the rate of reaction was doubled."
+        ],
+        [
+            434,
+            "So based on this and our knowledge on kinetics, we can then deduce that the order of reaction with respect to OH- is 1."
+        ],
+        [
+            445,
+            "When the concentration of Br-alkane was doubled, the reaction was also doubled."
+        ],
+        [
+            450,
+            "Similarly, we can then deduce that order of reaction with respect to Br-alkane is also 1."
+        ],
+        [
+            457,
+            "With this information at hand, what we can then conclude is this."
+        ],
+        [
+            462,
+            "The overall order of reaction is 2."
+        ],
+        [
+            465,
+            "It means that it involves both halogenoalkane and the nucleophile in the slow single step."
+        ],
+        [
+            473,
+            "What can we then conclude is that the reaction is single step as well as bimolecular."
+        ],
+        [
+            480,
+            "A nucleophilic substitution reaction that proceeds via a single step and bimolecular is known as the SN2 mechanism."
+        ],
+        [
+            490,
+            "Let's see whether we can define what is SN1 mechanism based on the kinetic data alone."
+        ],
+        [
+            497,
+            "We carry out a similar reaction, this time round with a different halogenoalkane."
+        ],
+        [
+            503,
+            "The first observation remains the same, in which the formation of pale cream precipitate tells us that bromide ion is present and therefore the C-Br bond must have been broken."
+        ],
+        [
+            514,
+            "When we take a closer look, we can see that the C-Br bond is present and when we take a closer look into the kinetics, what was found is that when the concentration of OH- was doubled, the rate of reaction remained the same."
+        ],
+        [
+            530,
+            "This means that the order of reaction with respect to OH- is 0."
+        ],
+        [
+            536,
+            "When we look at Br-alkane, we found that when the concentration of Br-alkane was doubled, the rate of reaction was also doubled."
+        ],
+        [
+            545,
+            "Based on this, we can deduce that the order of reaction with respect to Br-alkane is 1."
+        ],
+        [
+            552,
+            "Hence, we can then deduce that the overall order of reaction is 1."
+        ],
+        [
+            559,
+            "This means that in the slow step, the reaction only involves halogenoalkane."
+        ],
+        [
+            565,
+            "And hence, we can conclude that the reaction must have proceeded via more than one step and is a unimolecular reaction."
+        ],
+        [
+            576,
+            "This type of reaction is known as the SN1 mechanism."
+        ],
+        [
+            582,
+            "At this point, I hope you could recall that SN2 mechanism refer to a bimolecular, single step kind of mechanism, whereas SN1 mechanism refer to a unimolecular, more than one step kind of mechanism."
+        ],
+        [
+            603,
+            "If you recall, at the beginning of this part of proposing a mechanism, chemists looked at both kinetic and stereochemistry of a reaction."
+        ],
+        [
+            613,
+            "Up to this point, we have discussed about the kinetics, but we have yet to look at the stereochemistry."
+        ],
+        [
+            619,
+            "We will discuss on the stereochemistry in a greater detail when we talk about each of the mechanism."
+        ],
+        [
+            625,
+            "Let's see whether you know the answer to the following questions."
+        ],
+        [
+            630,
+            "What are the two characteristic reactions of halogenoalkanes? I hope that at this point, you will be able to answer that the two characteristic reactions are nucleophilic substitution reaction and elimination reaction."
+        ],
+        [
+            643,
+            "What's a nucleophilic substitution reaction? At this point, you should be able to answer this question already."
+        ],
+        [
+            649,
+            "What are the two types of mechanisms for nucleophilic substitution reaction? SN1 and SN2."
+        ],
+        [
+            657,
+            "These two types of mechanism is derived based on both kinetic and stereochemical outcome of the reaction."
+        ],
+        [
+            664,
+            "See you in the next lecture video."
+        ]
+    ],
+    "RX - SN2 Mechanism": [
+        [
+            0,
+            "Hi everyone, welcome back to the lecture series on halogen derivatives."
+        ],
+        [
+            4,
+            "In this lecture video, we will learn about SN2 mechanism and take note that you need to know this mechanism very well."
+        ],
+        [
+            12,
+            "By the end of this lecture video, you will be able to answer the following questions."
+        ],
+        [
+            18,
+            "What is SN2 mechanism and what are the factors affecting the reactivity of halogenoalkanes in SN2 mechanism? Let's begin."
+        ],
+        [
+            28,
+            "In A-level, the SN2 mechanism is described as the following."
+        ],
+        [
+            34,
+            "We will discuss a bit more about this in next slide, but for now, let's recap a little on how to write SN2 and what does SN2 stand for."
+        ],
+        [
+            46,
+            "You should already know by now that SN2 is written in which both S and N are written in capital letters and the N is written as a subscript."
+        ],
+        [
+            58,
+            "The S stands for substitution, N stands for nucleophilic, 2 stands for two reactant particles involved in the rate determining step, i.e."
+        ],
+        [
+            63,
+            "a bimolecular reaction. 2 stands for two reactant particles involved in the rate determining step, i.e. a bimolecular reaction."
+        ],
+        [
+            71,
+            "Now, let's discuss a little deeper on the SN2 mechanism."
+        ],
+        [
+            75,
+            "We have already established in the previous lecture video that SN2 mechanism refers to a nucleophilic substitution reaction in which it is bimolecular as well as proceeds via single step reaction."
+        ],
+        [
+            89,
+            "A single step reaction is also known as a concerted reaction."
+        ],
+        [
+            93,
+            "So now, in SN2 mechanism kind of reaction, you will have negatively charged nucleophile."
+        ],
+        [
+            100,
+            "And of course, we will have halogenoalkane in which the carbon carries partially positive charge because it is covalently bonded with electronegative X or halogen atom."
+        ],
+        [
+            112,
+            "What will then happen is that the lone pair on the nucleophile will attack the carbon that is electrophile and in turn, the CX bond will undergo heterolytic fission."
+        ],
+        [
+            124,
+            "This will then produce the product in which the nucleophile is now covalently bonded to the electrophilic carbon and the halide ion is being given out."
+        ],
+        [
+            134,
+            "What is interesting to take note is that the nucleophile attack the electrophilic carbon from the side that is directly opposite of the halogen atom."
+        ],
+        [
+            145,
+            "This is what we call a backside attack."
+        ],
+        [
+            148,
+            "We can also say that in SN2 mechanism, the nucleophile attack from the backside of the CX bond."
+        ],
+        [
+            157,
+            "Why is this so? We can explain this by looking at the electron density of the halogen atom."
+        ],
+        [
+            164,
+            "If the nucleophile were to approach the carbon from the side in which it is occupied by the halogen, since they are both electron rich, repulsion will occur and therefore, it is best for the nucleophile to come from the other direction which is directly opposite of the halogen atom."
+        ],
+        [
+            182,
+            "When this happens, interestingly, the inversion of configuration about the chiral atom happens."
+        ],
+        [
+            191,
+            "We'll discuss about this a little bit more later."
+        ],
+        [
+            194,
+            "One thing that I would like to highlight to you is that the SN2 mechanism proceeds via transition state."
+        ],
+        [
+            201,
+            "There is simultaneous partial formation of carbon nucleophile bond and partial cleavage of CX bond."
+        ],
+        [
+            209,
+            "The transition state cannot be isolated."
+        ],
+        [
+            211,
+            "We usually use a superscript of this symbol to denote transition state."
+        ],
+        [
+            217,
+            "What is interesting in the transition state is that there is partial bond formation as well as partial bond breakage."
+        ],
+        [
+            224,
+            "These all happen simultaneously via a single step reaction."
+        ],
+        [
+            228,
+            "So what actually happens as you can see in this animation, when I have a CN nucleophile coming in to react with metal bromide, the CN nucleophile will attack the carbon that is electrophilic from the backside of that of a CBR bond."
+        ],
+        [
+            245,
+            "And in turn, as you can see, there will be an inversion of stereochemistry right at the carbon."
+        ],
+        [
+            253,
+            "This inversion of configuration resembles the way an umbrella turns inside out in the wind."
+        ],
+        [
+            259,
+            "So you have this normal umbrella and when it turns inside out, it will then look like that."
+        ],
+        [
+            264,
+            "Now that you have learned this, please try this yourself."
+        ],
+        [
+            267,
+            "You are given a checklist for SN2 mechanism."
+        ],
+        [
+            270,
+            "Please ensure that you have all of this in your answer."
+        ],
+        [
+            273,
+            "Please pause the lecture video while you are trying to do this and only continue when you are done trying this."
+        ],
+        [
+            279,
+            "Now that you have completed this, let's check whether you have everything."
+        ],
+        [
+            283,
+            "First thing first, you need to write the name of the mechanism."
+        ],
+        [
+            287,
+            "The next thing that you will do is to locate the C-Cl bond and put a delta plus and delta minus correspondingly."
+        ],
+        [
+            295,
+            "Next, locate the nucleophile and draw a lone pair of electrons on it."
+        ],
+        [
+            301,
+            "We are now ready to draw a curly arrow."
+        ],
+        [
+            303,
+            "The nucleophile lone pair will attack the carbon that is delta positive and this will then cause the C-Cl bond to also break and therefore the arrow denoting the flow of electrons."
+        ],
+        [
+            317,
+            "Finally, please draw the product in which it shows the inversion of stereochemistry."
+        ],
+        [
+            323,
+            "Not forgetting to also include chloride ion as the other product."
+        ],
+        [
+            329,
+            "Now let's talk a little bit more about stereochemistry and kinetics of SN2."
+        ],
+        [
+            334,
+            "We have already learned by now that there is inversion of configuration that is involved when the reaction undergo SN2 type of mechanism."
+        ],
+        [
+            343,
+            "Experimentally, complete inversion of configuration with respect to the chiral carbon atom occurred."
+        ],
+        [
+            350,
+            "In short, this is what is being observed."
+        ],
+        [
+            353,
+            "This inversion of configuration is only possible if backside attack had occurred."
+        ],
+        [
+            359,
+            "What does this mean? If the nucleophile is to attack from the front, assuming that there is no repulsion between this nucleophile and the ex-halogen atom to begin with, retention of configuration would have been observed."
+        ],
+        [
+            377,
+            "However, we found that it is not observed at all and therefore frontside attack did not occur."
+        ],
+        [
+            385,
+            "Hence, we can conclude that SN2 mechanism account for the stereochemical outcome in which inversion of configuration occurred."
+        ],
+        [
+            393,
+            "If we look at the rate of reaction, assuming that SN2 reaction had occurred, since there is only one step, this must mean that this step must be the rate determining step."
+        ],
+        [
+            404,
+            "And therefore, since we know that the order of reaction with respect to both halogenoalkene and nucleophile is 1, we can write the rate equation as rate equals to k, which is rate constant, times the concentration of halogenoalkene to the power of 1 and nucleophile to the power of 1."
+        ],
+        [
+            420,
+            "The overall order of reaction according to the rate equation is 2."
+        ],
+        [
+            425,
+            "And therefore, we can also conclude that the SN2 mechanism matches the observed kinetics of the reaction."
+        ],
+        [
+            433,
+            "Next, let's take a look at the energy profile of SN2 reaction."
+        ],
+        [
+            437,
+            "At this point, we know that SN2 reaction is a concerted or single step reaction."
+        ],
+        [
+            443,
+            "If we were to sketch the energy profile diagram, it should look like this."
+        ],
+        [
+            448,
+            "I believe you have already known this, but just in case, the x-axis is progress of reaction, the y-axis is energy."
+        ],
+        [
+            455,
+            "Please take note that you do need to label the reactants and the products."
+        ],
+        [
+            460,
+            "On top of that, since we already know the SN2 reaction pretty well now, you will also need to label that the highest point in the energy profile diagram belongs to the transition state."
+        ],
+        [
+            472,
+            "If we were to indicate everything that we could in the energy profile diagram, we can then do the following, and then label that the delta H of the reaction for this particular energy profile diagram is exothermic, and then this arrow denotes the Ea or activation energy of forward reaction, where this arrow denotes the activation energy of the backward reaction."
+        ],
+        [
+            496,
+            "Let's take a look at a video to explain all this."
+        ],
+        [
+            526,
+            "This is a nuclear file."
+        ],
+        [
+            529,
+            "The lone electron pair on the nuclear file forms a new dative covalent bond with the partially charged carbon atom to give an unstable transition state on place."
+        ],
+        [
+            542,
+            "The complex behaves like an umbrella blowing inside out as the bonds rearrange into a tetrahedral structure."
+        ],
+        [
+            549,
+            "A new ion, called the leaving group, is released."
+        ],
+        [
+            565,
+            "The transition state complex."
+        ],
+        [
+            574,
+            "SN2."
+        ],
+        [
+            581,
+            "I hope that you have enjoyed the video."
+        ],
+        [
+            583,
+            "One thing that I would like to highlight is that in H2 syllabus, you are not required to draw the transition state unless you are asked to do so."
+        ],
+        [
+            591,
+            "And hence, if you are asked to draw a mechanism for SN2 reaction, you do not need to include the transition state in the mechanism."
+        ],
+        [
+            600,
+            "Moving on, let's now look at factors affecting the reactivity of halogenoalkane in SN2 mechanism."
+        ],
+        [
+            608,
+            "There are only two factors that affect the reactivity of a halogen in SN2 reactions."
+        ],
+        [
+            613,
+            "The first one is the strength of carbon-halogen bond."
+        ],
+        [
+            616,
+            "The second one is the steric effect of R groups."
+        ],
+        [
+            619,
+            "Let's take a look at each of them."
+        ],
+        [
+            621,
+            "If you take a look at the SN2 mechanism, we will realise that the SN2 mechanism proceeds via a herolytic version of C-X bond."
+        ],
+        [
+            631,
+            "And hence, the weaker the C-X bond, the faster the rate of reaction because lesser energy is required to break the bond."
+        ],
+        [
+            642,
+            "The order of reactivity of halogenoalkanes towards SN2 reaction depends on the strength of C-X bond."
+        ],
+        [
+            650,
+            "This is the order of the strength and therefore the rate."
+        ],
+        [
+            653,
+            "RF bond is really really strong and therefore it cannot undergo heterolytic fusion."
+        ],
+        [
+            659,
+            "Hence, it will not get broken in SN2 reaction."
+        ],
+        [
+            664,
+            "If you compare C-Cl, C-Br and C-I bond, knowing that the C-I bond is the weakest whereas the C-Cl bond is the strongest, we can then arrange the bonds according to this increasing rate of SN2 reaction."
+        ],
+        [
+            682,
+            "As mentioned again, RF bond is too strong and therefore there is no reaction."
+        ],
+        [
+            688,
+            "To reiterate the point, this order arises because the strength of C-X bond decreases as follows."
+        ],
+        [
+            695,
+            "Many of you would be wondering whether or not how positive that carbon matters in terms of attracting the nucleophile and therefore whether or not that plays a part in the rate of reaction."
+        ],
+        [
+            709,
+            "Let's take a look at two examples here."
+        ],
+        [
+            712,
+            "Let's compare C-Cl bond and C-Br bond."
+        ],
+        [
+            715,
+            "We know that C-Cl bond is more polar whereas C-Br bond is less polar."
+        ],
+        [
+            720,
+            "This is because chlorine is more electronegative than bromine and hence we can then deduce that the delta plus charge on the carbon in C-Cl bond is greater than that of the carbon in C-Br bond."
+        ],
+        [
+            732,
+            "We would then think that the carbon atom that has a larger partial positive charge should attract the nucleophile more strongly, vice versa for carbon-bromine bond."
+        ],
+        [
+            744,
+            "However, experiment has shown that halogenoalkane containing C-Cl bond reacts slower via SN2 reaction as compared to those that contain C-Br bond."
+        ],
+        [
+            756,
+            "Hence, one major conclusion is that in SN2 type of mechanism, only the strength of C-X bond matter, polarity of the C-X bond does not matter."
+        ],
+        [
+            770,
+            "Moving on to the next factor, the steric effect of R groups."
+        ],
+        [
+            774,
+            "We now know that in SN2 mechanism, the nucleophile will attack the electrophilic carbon atom via a backside attack."
+        ],
+        [
+            783,
+            "Looking at this example, we realize that the one on the left, which is the methyl bromide, is the least crowded in terms of the pathway in which the hydroxide ion comes in to attack the carbon and it is the most crowded for tertiary carbon."
+        ],
+        [
+            800,
+            "This means that there is least steric hindrance for the nucleophile to approach the carbon as compared to the one on the right hand side in which it is most crowded and therefore provide the greatest steric hindrance."
+        ],
+        [
+            815,
+            "This will then mean that methyl bromide is the most reactive whereas the tertiary butyl bromide is the least reactive."
+        ],
+        [
+            822,
+            "And hence, we can conclude that SN2 mechanism is favoured by less steric hindrance."
+        ],
+        [
+            828,
+            "A visual representation of this can also be found on the page 14 of your lecture notes."
+        ],
+        [
+            834,
+            "Now, let's see whether we can answer these questions together."
+        ],
+        [
+            838,
+            "What is SN2 mechanism? The SN2 mechanism is a bimolecular reaction mechanism in which it proceeds via single-step concerted reaction."
+        ],
+        [
+            848,
+            "There is also an inversion of configuration about the chiral atom in which a substitution occurs because the backside attack of a nucleophile occurred."
+        ],
+        [
+            858,
+            "Moving on, the two factors affecting the reactivity of halogenoalkene are the strength of the carbon-halogen bond as well as the steric effect of R groups."
+        ],
+        [
+            867,
+            "Ladies, we are done with SN2 mechanism."
+        ],
+        [
+            867,
+            "I'll see you in the next video. Ladies, we are done with SN2 mechanism. I'll see you in the next video."
+        ]
+    ],
+    "RX - Uses of Fluoroalkanes and CFCs": [
+        [
+            0,
+            "Hi everyone, welcome to the last lecture video of halogen derivatives."
+        ],
+        [
+            4,
+            "In this lecture video, I'll cover the uses of fluoroalkanes and fluorohalogenoalkanes, as well as CFCs and the ozone layer."
+        ],
+        [
+            14,
+            "By the end of this lecture video, you will be able to answer the following questions."
+        ],
+        [
+            19,
+            "Let's begin."
+        ],
+        [
+            21,
+            "CF bond and CCL bonds are relatively strong."
+        ],
+        [
+            25,
+            "Under normal conditions, both fluoroalkanes and fluorochloroalkanes are actually stable."
+        ],
+        [
+            32,
+            "They exhibit low toxicity, low reactivity and low flammability."
+        ],
+        [
+            38,
+            "Of all fluorohalogenoalkanes, CFCs or chlorofluorocarbons, manufactured under the trade name of Freons, are the most widely known."
+        ],
+        [
+            49,
+            "CFCs are halogenoalkanes that contain only chlorine, fluorine and carbon."
+        ],
+        [
+            56,
+            "Their molecules contain only CF and CCL bond."
+        ],
+        [
+            61,
+            "There is no CH bond in the molecule."
+        ],
+        [
+            64,
+            "The example of Freons are CFCl3, CCl2F2 and C2Cl2F4."
+        ],
+        [
+            73,
+            "CFC actually has some desirable properties which make them very useful compounds for many applications."
+        ],
+        [
+            80,
+            "They are stable and chemically unreactive."
+        ],
+        [
+            83,
+            "They are low toxicity, non-flammable, odorless, volatile and easily liquefy under pressure."
+        ],
+        [
+            93,
+            "You can find this table on page 32."
+        ],
+        [
+            98,
+            "Please spend some time in reading this."
+        ],
+        [
+            101,
+            "Please don't spend time in memorising which CFC is used for."
+        ],
+        [
+            107,
+            "Let's move on to talk about halons."
+        ],
+        [
+            110,
+            "Halons are halogenoalkanes that contain only carbon, bromine and other halogens."
+        ],
+        [
+            116,
+            "The examples are given to you."
+        ],
+        [
+            119,
+            "Halons are used in fire extinguisher systems because they are effective fire retardants."
+        ],
+        [
+            126,
+            "Now, the CFCs and halons can damage the ozone layer."
+        ],
+        [
+            131,
+            "The hydrochlorofluorocarbon, which is HCFCs, is interim replacement for CFCs."
+        ],
+        [
+            138,
+            "HCFCs contain CH bonds so are generally destroyed at lower altitudes before they reach the stratosphere to cause ozone depletion."
+        ],
+        [
+            148,
+            "Hydrofluorocarbon will replace HCFC in the future as it has ozone depletion potential of zero."
+        ],
+        [
+            157,
+            "Please read about the ozone layer yourself and I'll focus a little bit more on the effect of CFCs on the ozone layer."
+        ],
+        [
+            165,
+            "There are some similarities to free radical substitution here."
+        ],
+        [
+            169,
+            "In secondary school, you learn that the ozone layer is important because it blocks the UV light from the sun."
+        ],
+        [
+            177,
+            "In terms of chemical equations, what actually happens in the ozone layer? Typically, O2 molecules absorb UV radiation and dissociate into oxygen radical in which the oxygen radical will then react with another O2 molecule to produce ozone molecule."
+        ],
+        [
+            195,
+            "This ozone molecule also absorbs UV light to reproduce oxygen and also oxygen radical."
+        ],
+        [
+            203,
+            "The ozone molecule will also react with the oxygen radical to form oxygen molecules."
+        ],
+        [
+            209,
+            "These processes maintains a concentration of ozone in the ozone layer."
+        ],
+        [
+            216,
+            "However, when CFC molecules travels into the ozone layer, what will happen is ozone depletion."
+        ],
+        [
+            224,
+            "And this happens because the CFC molecules instead of the oxygen molecule absorb the UV light and the C-Cl bond undergoes homolytic fission."
+        ],
+        [
+            235,
+            "The homolytic fission of C-Cl bond will then produce chlorine radical."
+        ],
+        [
+            240,
+            "The radical will then react with ozone molecule to produce chlorine monoxide and molecular oxygen."
+        ],
+        [
+            248,
+            "Then, the chlorine monoxide will react with an oxygen radical to regenerate the chlorine radical and oxygen molecule."
+        ],
+        [
+            257,
+            "These chain propagation steps proceed continuously."
+        ],
+        [
+            261,
+            "If you look at the net reaction, you realize the net reaction destroy the dynamic equilibrium in which the ozone will be converted into oxygen molecule."
+        ],
+        [
+            272,
+            "Knowing that these chain propagation steps proceed continuously, a single chlorine radical from CFC molecule can literally lead to the destruction of thousands of ozone molecules."
+        ],
+        [
+            284,
+            "This gives rise to the phenomenon of ozone depletion."
+        ],
+        [
+            289,
+            "You can read the remaining part of this in the lecture notes."
+        ],
+        [
+            293,
+            "Now, I believe you know what is fluoroalkanes and fluorohalogenoalkanes."
+        ],
+        [
+            298,
+            "You are also able to list down a few uses of fluoroalkanes and fluorohalogenoalkanes."
+        ],
+        [
+            304,
+            "At this juncture, you should be able to explain the effect of CFC on the ozone layer."
+        ],
+        [
+            311,
+            "With that, we have come to the end of the lecture series on halogen derivatives."
+        ],
+        [
+            316,
+            "Please read the summary that is provided in the lecture notes."
+        ],
+        [
+            319,
+            "You are also strongly encouraged to come out with your own summary and share it with your friends."
+        ]
+    ],
+    "RX - Introduction and Physical Properties of Halogenoalkanes": [
+        [
+            0,
+            "Hi everyone, welcome to the lecture series on halogen derivatives."
+        ],
+        [
+            5,
+            "I am Dr Sally."
+        ],
+        [
+            7,
+            "We'll begin the lecture series on halogen derivatives with the introduction, continued by the physical properties of halogenoalkanes."
+        ],
+        [
+            16,
+            "By the end of this lecture video, you'll be able to answer the following questions."
+        ],
+        [
+            22,
+            "What is halogen derivatives? What is the nomenclature of halogenoalkanes? What are the physical properties of halogenoalkanes? Let's begin."
+        ],
+        [
+            34,
+            "Halogen derivatives are halogen containing organic compounds."
+        ],
+        [
+            39,
+            "Usually, the halogen is symbolised by X, and X can mean fluorine, chlorine, bromine or iodine."
+        ],
+        [
+            49,
+            "In H2 syllabus, you'll need to know the following types of halogen derivatives."
+        ],
+        [
+            55,
+            "The first one is halogen derivatives of alkanes."
+        ],
+        [
+            59,
+            "This is also known as halogenoalkanes or alkyl halides."
+        ],
+        [
+            64,
+            "An example of that is chloroethane."
+        ],
+        [
+            67,
+            "The other main focus in H2 chemistry is halogen derivatives of arenes."
+        ],
+        [
+            74,
+            "This is also known as halogenoarenes or aryl halides."
+        ],
+        [
+            79,
+            "An example of that is a chlorobenzene."
+        ],
+        [
+            82,
+            "If you look at these two closely, you'll be able to differentiate halogenoalkanes from halogenoarenes."
+        ],
+        [
+            90,
+            "The difference lies at where the X atom or the halogen is bonded to."
+        ],
+        [
+            97,
+            "For halogenoalkanes, the halogen is bonded to the carbon of the alkyl, whereas in halogenoarenes, the halogen is bonded to the carbon in the benzene ring."
+        ],
+        [
+            110,
+            "There are other types of halogen derivatives, but in the context of H2 syllabus, we will only discuss these two."
+        ],
+        [
+            119,
+            "On page 2 of your lecture notes, we give you a list of halogen compounds."
+        ],
+        [
+            125,
+            "We'd just like to highlight a few."
+        ],
+        [
+            128,
+            "If you look at helamone, that's a type of bromoalkane."
+        ],
+        [
+            133,
+            "If you look at DDT, that's chloro-arene."
+        ],
+        [
+            138,
+            "If you look at tetrafluoroethane, or known as teflon, that's fluoroalkene."
+        ],
+        [
+            146,
+            "Let's discuss a bit more on halogenoalkanes."
+        ],
+        [
+            150,
+            "halogenoalkanes are commonly denoted by R-X."
+        ],
+        [
+            153,
+            "R is an alkyl group or a substituted alkyl group."
+        ],
+        [
+            157,
+            "X is either fluorine, chlorine, bromine or iodine."
+        ],
+        [
+            161,
+            "The general formula of alkanes, as we already know, is CnH2n plus 2."
+        ],
+        [
+            167,
+            "The general formula of halogenoalkanes, the mono-substituted one, will then be replacing one of the hydrogen with an X atom."
+        ],
+        [
+            177,
+            "And therefore, the general formula is CnH2n plus 1 X."
+        ],
+        [
+            182,
+            "Please note this down."
+        ],
+        [
+            185,
+            "In halogenoalkanes, there is at least one halogen that is bonded to an sp3 hybridized carbon atom."
+        ],
+        [
+            194,
+            "And as we already know, C-X bond is a polar covalent bond."
+        ],
+        [
+            199,
+            "This is because X is electronegative, and therefore, it will pull the shared electron between C-X towards itself, and hence it will have a delta negative charge on the X, while the carbon will be slightly delta positive."
+        ],
+        [
+            214,
+            "The dipole moment can then be drawn in this manner."
+        ],
+        [
+            218,
+            "In terms of nomenclature of halogenoalkanes, this is not new, so I'm going to only pick and choose a few for us to discuss."
+        ],
+        [
+            228,
+            "So the first structure, we know that the IUPAC name of that is chloroethane."
+        ],
+        [
+            234,
+            "Is there another name for this? Yes, if we follow the naming based on alkyl halide, we can also refer to the same molecule by the name of ethyl chloride."
+        ],
+        [
+            246,
+            "However, if you are asked to name a compound based on IUPAC name, you should still name this compound as chloroethane."
+        ],
+        [
+            255,
+            "Similarly, the IUPAC name of this compound is chloromethyl benzene, the other name for this is benzyl chloride."
+        ],
+        [
+            266,
+            "Note that this one is not a chloroerene."
+        ],
+        [
+            270,
+            "If you are unsure, check the description of the video and if you are unsure, check the carbon in which the halogen is bonded to."
+        ],
+        [
+            279,
+            "In this case, the carbon in which chlorine is bonded to is an sp3 carbon and therefore this is actually a chloroalkane and it is under halogenoalkane."
+        ],
+        [
+            291,
+            "In terms of the classification of halogenoalkanes, again, just a recap, we will look at the carbon atom bearing the halogen X and then depending on the number of alkyl group that is attached to the carbon atom, we can then classify it as primary if there is only one alkyl group, secondary if there are two alkyl groups, and tertiary if there are three alkyl groups."
+        ],
+        [
+            317,
+            "Let's classify the following halogenoalkanes according to whether it is a primary, secondary, or tertiary halogenoalkanes."
+        ],
+        [
+            326,
+            "Let's do it together."
+        ],
+        [
+            328,
+            "The first one is primary halogenoalkane."
+        ],
+        [
+            332,
+            "The second compound in the list is also a primary halogenoalkane."
+        ],
+        [
+            337,
+            "There are two carbons, both happen to be primary halogenoalkane."
+        ],
+        [
+            343,
+            "Third compound is a secondary halogenoalkane."
+        ],
+        [
+            347,
+            "The fourth compound is also a secondary halogenoalkane."
+        ],
+        [
+            351,
+            "If we look at bromocyclopentane, that's an example of secondary halogenoalkane, where's the last one? A primary halogenoalkane."
+        ],
+        [
+            363,
+            "Let's now move on to talk about the physical properties of halogenoalkanes."
+        ],
+        [
+            369,
+            "We will be focusing on three physical properties of R-X."
+        ],
+        [
+            373,
+            "The first one is the boiling point, followed by solubility, as well as the density of R-X."
+        ],
+        [
+            381,
+            "When we discuss the physical properties of compounds that have simple molecular structure, we will always need to look into the type of intermolecular forces of attraction that exist between the molecules."
+        ],
+        [
+            396,
+            "And as we already know, due to the polar C-X bond in R-X, the molecule is polar, and therefore there are two types of intermolecular forces, PD-PD and I-D-I-D."
+        ],
+        [
+            409,
+            "Let's take a look at the boiling point."
+        ],
+        [
+            412,
+            "In terms of a boiling point, if we compare an alkane with halogenoalkane, we can see that the boiling point of halogenoalkane is much higher than the boiling point of alkane."
+        ],
+        [
+            425,
+            "This is because there is only I-D-I-D interaction between ethane molecules, whereas in ethyl chloride or chloroethane, there is PD-PD and I-D-I-D."
+        ],
+        [
+            437,
+            "Hence, more energy is required to overcome the PD-PD and I-D-I-D interaction in chloroethane versus only I-D-I-D interaction in alkane."
+        ],
+        [
+            449,
+            "If we compare the R-X with different R groups, you'll notice that as the R group getting larger, the boiling point increases."
+        ],
+        [
+            459,
+            "Similarly, if we compare R-X in which we have the same R, but changing X from fluorine, chlorine, bromine to iodine, the boiling point also increases."
+        ],
+        [
+            472,
+            "This can be explained by the larger and more polarizable electron club as the number of electrons per molecule increases."
+        ],
+        [
+            480,
+            "This gives rise to the overall stronger I-D-I-D interaction between the molecules, and hence, more energy is required to overcome them, resulting in increase in boiling point."
+        ],
+        [
+            493,
+            "Moving on to solubility, halogenoalkanes have poor solubility in water despite being polar because it is unable to interact with water molecule in which the water molecule already contain hydrogen bonding to begin with."
+        ],
+        [
+            509,
+            "halogenoalkanes are soluble in organic solvent because it is able to interact with this solvent via I-D-I-D interaction."
+        ],
+        [
+            519,
+            "Lastly, in terms of density, generally, fluoroalkanes and monochloroalkanes are less dense than water."
+        ],
+        [
+            528,
+            "In general, chloroalkanes with two or more chlorine atoms, bromoalkanes and iodoalkanes are denser than water."
+        ],
+        [
+            538,
+            "With that, I hope you know the answers to the following questions."
+        ]
+    ],
+    "RX - Nucleophilic Substitutions Reactions of RX": [
+        [
+            0,
+            "Hi everyone, in this lecture video, we'll look at the examples of nucleophilic substitution reactions of halogenoalkanes."
+        ],
+        [
+            8,
+            "By the end of this lecture video, you'll be able to give a few examples of nucleophilic substitution reactions of RX."
+        ],
+        [
+            16,
+            "On page 21 of your notes, you'll be able to find this schematic diagram that showcases the versatility of halogenoalkane."
+        ],
+        [
+            25,
+            "halogenoalkane can be converted into alcohol, nitrile, amine or ether."
+        ],
+        [
+            32,
+            "At this juncture, let's take a look at what are the nucleophiles in each of the reactions."
+        ],
+        [
+            38,
+            "So in the first reaction, in which halogenoalkane is converted to alcohol, the nucleophile involved is hydroxide ion."
+        ],
+        [
+            48,
+            "The second one, cyanide ion."
+        ],
+        [
+            48,
+            "The third one, the nucleophile is actually the ammonia. The second one, cyanide ion. The third one, the nucleophile is actually the ammonia."
+        ],
+        [
+            55,
+            "The fourth one is methoxide ion."
+        ],
+        [
+            59,
+            "Now at this point, I'd like to highlight that not every single nucleophile is negatively charged."
+        ],
+        [
+            65,
+            "You would have noticed that ammonia is neutral."
+        ],
+        [
+            69,
+            "However, it is an nucleophile because there is a lone pair that is available on the nitrogen of ammonia."
+        ],
+        [
+            76,
+            "Let's discuss each of these reactions in a greater detail."
+        ],
+        [
+            81,
+            "Formation of alcohols from halogenoalkanes can be carried out using NaOH aqueous or KOH aqueous under heat."
+        ],
+        [
+            92,
+            "It is worth noting that this reaction is also known as hydrolysis, or more accurately, since alkali is being used, this is what we call alkaline hydrolysis."
+        ],
+        [
+            106,
+            "It is very very important for you to indicate the aqueous medium because only in aqueous medium, nucleophilic substitution will occur."
+        ],
+        [
+            116,
+            "If it is in alcoholic medium, elimination reaction would occur instead."
+        ],
+        [
+            121,
+            "You would already learn this reaction under alkene."
+        ],
+        [
+            126,
+            "In conclusion, if you want to carry out nucleophilic substitution reaction on halogenoalkane, you need to use aqueous medium."
+        ],
+        [
+            135,
+            "Now let's take a look at a few examples."
+        ],
+        [
+            138,
+            "The first example here, you would have noticed that since the NaOH is in aqueous medium, this reaction will be a nucleophilic substitution reaction."
+        ],
+        [
+            149,
+            "What is the mechanism of this reaction? In order to determine the mechanism, you will need to look at the type of halogenoalkane."
+        ],
+        [
+            158,
+            "In this case, the bromoethane is a primary halogenoalkane, and therefore the mechanism is SN2."
+        ],
+        [
+            167,
+            "If you are asked to then draw the mechanism, you will then draw the corresponding SN2 mechanism, in which it shows the backside attack of the hydroxide nucleophile into the electrophilic carbon atom."
+        ],
+        [
+            182,
+            "Do take note that for SN2 mechanism, even if there is no chiral centre, the 3D diagram must be drawn to show the backside attack clearly."
+        ],
+        [
+            193,
+            "Do also ensure that you include bromide as the product of this reaction."
+        ],
+        [
+            199,
+            "If you have used potassium hydroxide, your other product will then be potassium bromide aqueous."
+        ],
+        [
+            209,
+            "Now let's take a look at example 2."
+        ],
+        [
+            211,
+            "Similarly, let's write the mechanism of this reaction."
+        ],
+        [
+            216,
+            "Aqueous medium of sodium hydroxide refers to nucleophilic substitution reaction."
+        ],
+        [
+            222,
+            "Looking at the type of halogenoalkane, you will realise that that's tertiary halogenoalkane, and therefore the mechanism is SN1."
+        ],
+        [
+            232,
+            "SN1 reaction proceeds via two steps."
+        ],
+        [
+            236,
+            "The first step is the formation of carbocation."
+        ],
+        [
+            240,
+            "The formation of carbocation involves the breaking of C-Br bond, and therefore this is the slow step."
+        ],
+        [
+            249,
+            "When this happens, the carbocation intermediate will then be produced."
+        ],
+        [
+            254,
+            "Step 2 of the reaction is nucleophilic attack of the hydroxide ion, and this will proceed in a fast manner."
+        ],
+        [
+            263,
+            "Take note that for SN1, if there is no chiral centre, you can simplify the drawing without having to draw the 3D structures."
+        ],
+        [
+            274,
+            "You also wouldn't need to show the attack of nucleophile from either side of the plane of the carbocation ion because it is not chiral to begin with."
+        ],
+        [
+            285,
+            "Moving on, formation of nitriles from halogenoalkane is one of the most important nucleophilic substitution reaction in the syllabus."
+        ],
+        [
+            296,
+            "The reagents and conditions involved are actually pretty simple."
+        ],
+        [
+            300,
+            "You need to use either alcoholic or ethanolic potassium cyanide."
+        ],
+        [
+            305,
+            "You can also use sodium cyanide."
+        ],
+        [
+            308,
+            "Both will require heat."
+        ],
+        [
+            311,
+            "The organic product of this reaction is a nitrile."
+        ],
+        [
+            315,
+            "Now, we have agreed that the nucleophile is the cyanide ion."
+        ],
+        [
+            319,
+            "At this point, I want to make it clear that in the cyanide ion, the carbon atom is the one that carries the lone pair of electron."
+        ],
+        [
+            328,
+            "As I mentioned just now, this reaction is very, very important because this is the reaction in which you can increase the length of a carbon chain by one carbon atom."
+        ],
+        [
+            340,
+            "This type of reaction is also known as a step-up reaction."
+        ],
+        [
+            345,
+            "Let's take a look at an example."
+        ],
+        [
+            347,
+            "We have noticed that the starting material is a bromoethane which contains two carbons."
+        ],
+        [
+            354,
+            "Subjecting it to ethanolic KCN and heat will then give a product of propane nitrile and KBR."
+        ],
+        [
+            362,
+            "Propane nitrile is a three-carbon chain organic molecule."
+        ],
+        [
+            368,
+            "And therefore, step-up reaction has occurred."
+        ],
+        [
+            373,
+            "Now, in order to draw the mechanism, we need to determine whether this is SN1 or SN2."
+        ],
+        [
+            379,
+            "I think by now, we would have agreed that this mechanism is SN2 mechanism."
+        ],
+        [
+            384,
+            "And keeping in mind that if it is SN2, regardless of whether it is chiral or non-chiral, you need to show the 3D structure."
+        ],
+        [
+            392,
+            "This is how the mechanism will then look like."
+        ],
+        [
+            396,
+            "Also bear in mind that will be inversion of configuration at the product."
+        ],
+        [
+            402,
+            "Now, I would like to draw your attention to nitriles."
+        ],
+        [
+            407,
+            "Nitriles are useful intermediate in synthesis."
+        ],
+        [
+            411,
+            "Nitriles itself can undergo reduction reaction to form primary amines or hydrolysis reaction to produce carboxylic acids."
+        ],
+        [
+            422,
+            "In the schematic diagram, you would also notice that at this part of the schematic diagram, the versatility of nitrile group is clearly listed."
+        ],
+        [
+            433,
+            "The first two reactions are the reduction reaction."
+        ],
+        [
+            438,
+            "The next two are the hydrolysis reaction."
+        ],
+        [
+            441,
+            "We'll look into these more closely now."
+        ],
+        [
+            445,
+            "Reduction of nitriles to primary amines can be carried out using two different types of reducing agent."
+        ],
+        [
+            452,
+            "The first type of reducing agent is something that we are very familiar with, hydrogen gas nickel catalyst with heat."
+        ],
+        [
+            461,
+            "This reaction will produce the primary amine that is shown on the screen."
+        ],
+        [
+            467,
+            "Alternatively, this reaction can also be carried out in the presence of lithium aluminium hydride in dry ether as the reducing agent."
+        ],
+        [
+            478,
+            "Both will give the same primary amine."
+        ],
+        [
+            482,
+            "As I've already mentioned, LiAlH4 is lithium aluminium hydride and it is one of the reducing agent that you need to know very well in H2 syllabus."
+        ],
+        [
+            494,
+            "Now, let's look into hydrolysis of nitriles to carboxylic acids."
+        ],
+        [
+            500,
+            "The hydrolysis of nitriles can be carried out in two different conditions, the acidic medium and alkaline medium."
+        ],
+        [
+            508,
+            "And of course, if we carry out the hydrolysis in acidic medium, we can name it acidic hydrolysis."
+        ],
+        [
+            514,
+            "And when we carry it out in alkaline medium, we will name it alkaline hydrolysis."
+        ],
+        [
+            520,
+            "When we carry out acidic hydrolysis of nitriles, the product is the corresponding carboxylic acid as well as ammonium ion."
+        ],
+        [
+            531,
+            "When basic hydrolysis is being carried out on nitriles, the product is the corresponding carboxylate ion and ammonia."
+        ],
+        [
+            540,
+            "Please note the difference in the product."
+        ],
+        [
+            544,
+            "Moving on, halogenoalkane can also be used to produce primary amine."
+        ],
+        [
+            550,
+            "Take note that in this reaction, there is no increase in the number of carbon."
+        ],
+        [
+            555,
+            "And hence, if we want to carry out a transformation from halogenoalkane to amine in which the number of carbon atom remains the same, we should use these reagents and condition."
+        ],
+        [
+            568,
+            "The reagent is excess concentrated ammonia."
+        ],
+        [
+            573,
+            "It has to be done in alcohol or ethanol, as well as carried out in a sealed tube with heat."
+        ],
+        [
+            582,
+            "Carrying out this reaction in sealed tube is very important because upon heating, ammonia will vaporize very easily."
+        ],
+        [
+            593,
+            "The product of this reaction is the primary amine and the corresponding acid."
+        ],
+        [
+            600,
+            "For simplicity, in A-level, you may write this reaction in this manner."
+        ],
+        [
+            607,
+            "However, we do know that primary amine is a base, whereas the HX is an acid, and therefore, they could react with each other."
+        ],
+        [
+            621,
+            "Hence, sometimes, some alternative ways of writing this reaction can also be accepted."
+        ],
+        [
+            628,
+            "The first way of writing it is that after the reaction of halogenoalkane with excess concentrated ammonia in alcohol, the product is actually the primary amine salt, or what we call alkyl ammonium salt."
+        ],
+        [
+            645,
+            "Upon further reaction with another molecule of ammonia, it is then converted to primary amine and its corresponding ammonium ion."
+        ],
+        [
+            658,
+            "Another way of writing it is in which it will form the corresponding primary amine as well as the ammonium salt."
+        ],
+        [
+            667,
+            "In this case, the balanced equation will then involve one molecule of RX reacting with two molecules of ammonia."
+        ],
+        [
+            678,
+            "The last way of writing this equation is in which it produces primary amine salt in a reaction between one mole of halogenoalkane and one mole of ammonia, following which the primary amine salt can then be reacted with sodium hydroxide aqueous to convert it into primary amine with the corresponding salt and water."
+        ],
+        [
+            703,
+            "Now let's take a look at how do we draw the reaction mechanism for this reaction."
+        ],
+        [
+            710,
+            "We now know that excess concentrated ammonia in alcohol in sealed tube with heat is a nucleophilic substitution reaction and hence we need to determine the type of nucleophilic substitution."
+        ],
+        [
+            725,
+            "The nucleophile in this case is the ammonia and it's worth noting that the lone pair on the nitrogen atom of ammonia is the lone pair that will be involved in the nucleophilic substitution reaction."
+        ],
+        [
+            740,
+            "The mechanism of this reaction is SN2 and hence when we draw the mechanism, it will look like this."
+        ],
+        [
+            748,
+            "This is the first time that we discuss a nucleophilic substitution reaction using a neutral nucleophile."
+        ],
+        [
+            755,
+            "I'd like you to pay a close attention on the charges on the product of this reaction."
+        ],
+        [
+            762,
+            "Some of you would have noticed that at the product, this nitrogen is positively charged."
+        ],
+        [
+            770,
+            "Why is this so? If you follow the arrow pushing, you will be able to realise why the nitrogen is positively charged in the product."
+        ],
+        [
+            782,
+            "The lone pair of the nitrogen will attack the carbon, that is delta plus and then C-Br bond will undergo heterolytic fission in which the two electrons that are in C-Br bond will go to Br."
+        ],
+        [
+            798,
+            "This process happens simultaneously via a transition state."
+        ],
+        [
+            804,
+            "So if we take a look at the transition state, what is happening is that the lone pair on the nitrogen simultaneously form a bond with the carbon in which the C-Br bond is simultaneously being broken."
+        ],
+        [
+            822,
+            "So you could view this as the neutral NH3 is transferring some of its electron density to the carbon rendering itself partial positive charge and in the process, the electrons on the C-Br bond simultaneously go towards the bromine rendering the bromine partial negative charge."
+        ],
+        [
+            850,
+            "When the reaction complete, this nitrogen that was originally neutral will now have a positive charge because the two electrons that were originally belong to this nitrogen atom is now being shared between the C-N bond as if the nitrogen has lost one electron to the carbon and hence the nitrogen will now carry a positive charge while the Br will take the electron that were originally shared between the C-Br bond."
+        ],
+        [
+            888,
+            "A simple way to check whether you have drawn the product correctly is also the idea of conservation of charge."
+        ],
+        [
+            896,
+            "So if you look at the left hand side which is the reactant side, NH3 was neutral, the halogenoalkene was also neutral."
+        ],
+        [
+            905,
+            "So there is no charge on the left hand side."
+        ],
+        [
+            908,
+            "On the right hand side, since you are producing a bromide ion that is negatively charged, the corresponding amine that you are forming has to be carrying a positive charge."
+        ],
+        [
+            921,
+            "In this way, both sides of the reaction will now have no net charge."
+        ],
+        [
+            928,
+            "Now if you compare the product of this SN2 reaction, you'll realise that it is still not the same as the ethyl amine and hence what happens next is that the bromide ion will then abstract this hydrogen so as to convert this positively charged group into a neutral amine group."
+        ],
+        [
+            953,
+            "In this manner, the H+, will be given out and the H+, and Br- will combine to form HBr."
+        ],
+        [
+            963,
+            "Alright, so now let's see whether there is any problem with this reaction."
+        ],
+        [
+            971,
+            "Let's take a look at the first reaction."
+        ],
+        [
+            974,
+            "So we know that when NH3 reacts with the primary halogenoalkene, SN2 reaction will occur in which you will produce the amine and HBr."
+        ],
+        [
+            985,
+            "This is actually what we want."
+        ],
+        [
+            988,
+            "However, you would now notice that this amine, which is the product of the reaction, also contains a lone pair at the nitrogen group."
+        ],
+        [
+            1001,
+            "To make the matter worse, if you compare NH3 as a nucleophile versus ethyl amine as a nucleophile, knowing that this ethyl group is actually electron donating group, you would realise that the lone pair on this nitrogen is actually more available."
+        ],
+        [
+            1029,
+            "And therefore, this ethyl amine is a better nucleophile than the NH3."
+        ],
+        [
+            1042,
+            "What does this mean is that instead of NH3 attacking the halogenoalkene, the product of the first reaction, which is the primary amine, will attack the halogenoalkene to produce the corresponding secondary amine."
+        ],
+        [
+            1062,
+            "Similarly, this amine also has a lone pair available for it to act as a nucleophile."
+        ],
+        [
+            1071,
+            "And this amine will also react with the halogenoalkene to produce the tertiary amine."
+        ],
+        [
+            1078,
+            "Let's take a look at that nitrogen."
+        ],
+        [
+            1081,
+            "You will notice that this nitrogen still contains a lone pair."
+        ],
+        [
+            1085,
+            "And therefore, this nitrogen will also be able to react as a nucleophile with another molecule of halogenoalkene to finally produce the quaternary ammonium salt."
+        ],
+        [
+            1099,
+            "Fortunately, the nitrogen here has no more lone pair."
+        ],
+        [
+            1105,
+            "And that's the end of a polyalkylation."
+        ],
+        [
+            1109,
+            "When you carry out this reaction, it is actually very difficult to ensure that polyalkylation does not occur."
+        ],
+        [
+            1117,
+            "And therefore, what you can do is to control the reaction such that you minimise polyalkylation from happening."
+        ],
+        [
+            1127,
+            "You can limit the number of halogenoalkene."
+        ],
+        [
+            1131,
+            "And therefore, you can use excess concentrated ammonia in alcohol so that you will get the primary amine as your major product."
+        ],
+        [
+            1143,
+            "When you use excess concentrated ammonia in alcohol, your side product will then be the ammonium bromide."
+        ],
+        [
+            1153,
+            "Alternatively, if you actually want to make a quaternary ammonium salt, you should use the excess halogenoalkene."
+        ],
+        [
+            1162,
+            "In this manner, you will produce mostly the quaternary ammonium salt."
+        ],
+        [
+            1168,
+            "It is worth noting that halogenoarenes cannot undergo nucleophilic substitution reaction when you subject it to excess concentrated ammonia in silt tube with heat."
+        ],
+        [
+            1181,
+            "We will discuss more about this in section 11."
+        ],
+        [
+            1185,
+            "With that, let's consolidate."
+        ],
+        [
+            1188,
+            "What are the examples of nucleophilic substitution reactions that we have discussed? We have learned that there are four different types of nucleophilic substitution reactions."
+        ],
+        [
+            1199,
+            "The first type being a reaction in which we can convert halogenoalkene to alcohol."
+        ],
+        [
+            1206,
+            "In order to do so, I must remember to use sodium hydroxide or potassium hydroxide that is in aqueous medium with heat."
+        ],
+        [
+            1217,
+            "I can also convert halogenoalkene into nitrile."
+        ],
+        [
+            1221,
+            "In order to do so, I will use ethanolic KCN with heat."
+        ],
+        [
+            1227,
+            "This reaction is very important because this is the reaction in which you can do a step up in the sense you can increase the number of carbon in the molecule."
+        ],
+        [
+            1239,
+            "Next, you can also convert halogenoalkene to amine."
+        ],
+        [
+            1243,
+            "In order to do so, you will use excess concentrated ammonia in alcohol, heat in silt tube."
+        ],
+        [
+            1252,
+            "Remember, when we use excess concentrated ammonia, we want to produce mainly primary amine."
+        ],
+        [
+            1261,
+            "Lastly, we can also convert halogenoalkene into ether."
+        ],
+        [
+            1266,
+            "We didn't really discuss much about this, but this reaction is very similar to that of a nucleophilic substitution of alcohol."
+        ],
+        [
+            1274,
+            "You may use sodium ethanoate with the ethanoate ion being the nucleophile with heat."
+        ],
+        [
+            1283,
+            "That's all we have for this lecture video."
+        ],
+        [
+            1286,
+            "See you in the next lecture video."
+        ]
+    ],
+    "RX - Comparison between SN1 and SN2": [
+        [
+            0,
+            "Hi everyone, in this part of the lecture video, we will look at the comparison between SN2 and SN1 mechanism."
+        ],
+        [
+            8,
+            "By the end of this lecture video, you will be able to determine when is the mechanism SN2 or SN1, as well as what are the special cases to take note."
+        ],
+        [
+            20,
+            "A summary table is provided for you on page 19."
+        ],
+        [
+            24,
+            "We have actually discussed the kinetics, molecularity, rate equation, stereochemistry, products, number of steps, energy profile diagram in quite a great detail in the previous lectures."
+        ],
+        [
+            39,
+            "However, it is worth noting that in terms of order of reactivity, there is actually some similarity and differences between these two."
+        ],
+        [
+            50,
+            "If we are looking at the same halogen being involved, since SN2 mechanism proceeds via backside attack of the nucleophile on the carbon of that of carbon-halogen bond, the steric hindrance due to the alkyl group around the carbon atom bonded to the X atom matters most."
+        ],
+        [
+            71,
+            "And therefore, the fastest type of reaction is when it is least hindered and that's when all of the groups that are surrounding that carbon atom is made of only hydrogen."
+        ],
+        [
+            84,
+            "As for SN1 mechanism, the carbocation stability is the most important thing and therefore, the tertiary halogenoalkane react the fastest."
+        ],
+        [
+            96,
+            "In terms of the order of reactivity with the same alkyl group but different halogen, both SN2 and SN1 mechanism are dependent on the strength of CX bond."
+        ],
+        [
+            110,
+            "The stronger the bond, the slower the reaction."
+        ],
+        [
+            114,
+            "It's worth noting that fluoroalkane does not react."
+        ],
+        [
+            118,
+            "That is because the CF bond is too strong for it to undergo heterolytic fission."
+        ],
+        [
+            124,
+            "Now, in A level, you do need to determine whether the reaction is SN2 or SN1."
+        ],
+        [
+            131,
+            "For simplicity, the only factor that you need to consider when you are asked to determine whether the reaction is SN2 or SN1 type of mechanism, look at the structure of halogenoalkane."
+        ],
+        [
+            144,
+            "For example, these few halogenoalkane."
+        ],
+        [
+            148,
+            "The first halogenoalkane will definitely proceed via SN2 mechanism because it is least hindered."
+        ],
+        [
+            158,
+            "If it were to undergo SN1 mechanism, the carbocation that is produced from step 1 of the mechanism is very unstable and therefore, metal halide will undergo SN2 mechanism instead."
+        ],
+        [
+            175,
+            "Primary halogenoalkane will also undergo SN2 type of mechanism because in terms of steric hindrance, it's actually quite low and if you look at SN1 type of mechanism, you'll realize that the primary carbocation that is formed from the step 1 of the SN1 mechanism is not very stable because it's primary carbocation anyway."
+        ],
+        [
+            199,
+            "Let's move on to tertiary first."
+        ],
+        [
+            201,
+            "Tertiary halogenoalkane will proceed solely via SN1 mechanism because it is sterically too hindered for the nucleophile to attack the carbon via backside attack and the formation of the carbocation in step 1 is actually very stable since it will form tertiary carbocation."
+        ],
+        [
+            222,
+            "Now, we come into the more interesting part."
+        ],
+        [
+            225,
+            "When it comes to secondary halogenoalkane, the reaction can proceed via either SN2 or SN1 mechanism and hence, how do you then know which one is the correct mechanism? We will need to obtain experimental data such as the kinetics data, optical activity data to determine whether it is SN1 or SN2."
+        ],
+        [
+            249,
+            "Having to say this, not all primary halogenoalkane will undergo SN2 mechanism."
+        ],
+        [
+            257,
+            "There are some that will undergo SN1 mechanism."
+        ],
+        [
+            261,
+            "What are those and why? The first example that we will talk about is a reaction in which allylic halide is reacted with a nucleophile."
+        ],
+        [
+            275,
+            "Now, what is an allylic halide? An allylic halide is a compound in which the halogen atom is bonded to the carbon atom adjacent to a C-C double bond."
+        ],
+        [
+            288,
+            "The other type is when benzylic halide reacts with a nucleophile."
+        ],
+        [
+            293,
+            "A benzylic halide is an organic compound in which the halogen atom is bonded to a carbon atom that is adjacent to a benzene ring."
+        ],
+        [
+            302,
+            "Let's discuss about these two individually."
+        ],
+        [
+            304,
+            "Now, what's so important about allylic halide? When allylic halide undergoes SN1 type of reaction, it will produce allylic carbocation."
+        ],
+        [
+            315,
+            "And the allylic carbocation is actually a stable carbocation."
+        ],
+        [
+            320,
+            "Why is it stable? If you look at the C-C double bond here, we know that this C-C double bond is because of the side-way orbital overlap of the P orbital."
+        ],
+        [
+            332,
+            "And when you have a carbocation that is adjacent to this, the carbocation has an empty P orbital that is parallel to that of the C-C double bond."
+        ],
+        [
+            344,
+            "And this means that the electron in the C-C double bond P orbitals can delocalize into the P orbital of that of the carbocation."
+        ],
+        [
+            356,
+            "And that actually increases the stability of this carbocation."
+        ],
+        [
+            362,
+            "Hence, although allylic halide is a primary halogenoalkane, it will undergo SN1 type of reaction and not SN2."
+        ],
+        [
+            374,
+            "Similarly, if we now look at benzyl bromide, if benzyl bromide were to undergo SN1 type of reaction, it will produce the benzylic carbocation in step 1."
+        ],
+        [
+            388,
+            "The benzylic carbocation is also stable for the reason that it's similar to that of allylic carbocation."
+        ],
+        [
+            396,
+            "You have learned under Irene that the benzene ring has delocalization of electrons on the parallel P orbital."
+        ],
+        [
+            404,
+            "When there is a carbocation that is attached to the benzene ring, there is an empty P orbital that is parallel to the P orbitals of the benzene ring."
+        ],
+        [
+            414,
+            "And therefore, delocalization of the electrons will also occur, giving rise to the stabilized carbocation."
+        ],
+        [
+            423,
+            "This carbocation is said to be stabilized by resonance."
+        ],
+        [
+            428,
+            "And hence, although benzyl bromide is a primary halogenoalkane, it will undergo nucleophilic substitution reaction via SN1 type of mechanism and not SN2 type."
+        ],
+        [
+            443,
+            "So now, to conclude, you should now know the answer to this."
+        ],
+        [
+            447,
+            "When is the mechanism SN2 or SN1? In H2 syllabus, the first thing that you need to do is determine the type of halogenoalkane that you are dealing with."
+        ],
+        [
+            458,
+            "If it is just a methyl group, for example, or primary, you can take it for granted that it's SN2 if there is no other information given in the context of the question."
+        ],
+        [
+            469,
+            "If it is a tertiary halogenoalkane, then it should undergo SN1 type of mechanism."
+        ],
+        [
+            477,
+            "Things get a little bit more interesting if it is secondary halogenoalkane."
+        ],
+        [
+            482,
+            "If this is the case, then look for further information in the question that could help you to determine whether this is SN1 or SN2."
+        ],
+        [
+            491,
+            "The further information can come in the form of kinetics data or stereochemistry data."
+        ],
+        [
+            498,
+            "Is there any special cases to take note? Yes, there are two special cases to take note."
+        ],
+        [
+            504,
+            "The first one is the allylic halogenoalkane."
+        ],
+        [
+            508,
+            "The second one is the benzylic halogenoalkane."
+        ],
+        [
+            512,
+            "These two, although they are primary halogenoalkane, they will undergo SN1 type of mechanism instead because their corresponding carbocation ions are actually stabilised via resonance."
+        ],
+        [
+            525,
+            "With that, I'll see you in the next lecture video."
+        ]
+    ],
+    "RX - Halogenoarenes and Reactions of Halogenoarenes": [
+        [
+            0,
+            "Hi everyone, in this lecture video, you will learn about halogeno-arenes and the reactions of halogeno-arenes."
+        ],
+        [
+            13,
+            "By the end of this lecture video, you will be able to answer these questions."
+        ],
+        [
+            18,
+            "I'll leave you to read these yourself."
+        ],
+        [
+            21,
+            "Okay, so what is halogeno-arenes? In our first lecture video on halogen derivatives, you have seen this schematic diagram."
+        ],
+        [
+            33,
+            "At this point of time, we are done with discussing about halogeno-alkanes."
+        ],
+        [
+            39,
+            "Now we are going to look into halogeno-arenes and to just recap a little, halogeno-arenes are also known as aryl halides and they are halogen derivatives of arenes."
+        ],
+        [
+            51,
+            "An example of that is chlorobenzene."
+        ],
+        [
+            56,
+            "Halogeno-arenes are halogen derivatives of arenes in which one or more hydrogen atom in the benzene ring are replaced by a halogen atom."
+        ],
+        [
+            66,
+            "It contains one or more halogen atoms directly attached to a benzene ring."
+        ],
+        [
+            72,
+            "The carbon in which the halogen is covalently bonded is an sp2 hybridized carbon."
+        ],
+        [
+            80,
+            "You have learned about the nomenclature of halogeno-arenes, so I will not be going through this part."
+        ],
+        [
+            87,
+            "In terms of physical properties, halogeno-arenes burns with a sooty luminous flame which is a characteristic of unsaturated compound containing a benzene ring."
+        ],
+        [
+            100,
+            "Having to say that, you should not use this as a distinguishing test."
+        ],
+        [
+            105,
+            "Additionally, chlorobenzene, bromobenzene, iodobenzene are colorless liquids which are insoluble in water and denser than water."
+        ],
+        [
+            115,
+            "Halogeno-arenes can be prepared from benzene via electrophilic substitution reaction."
+        ],
+        [
+            121,
+            "You have learned this under arenes and therefore I'll not be spending too much time in this."
+        ],
+        [
+            128,
+            "What is worth taking note is that unlike halogeno-alkanes, halogeno-arenes generally do not undergo nucleophilic substitution reaction."
+        ],
+        [
+            138,
+            "We are going to look into the reason as to why this is so."
+        ],
+        [
+            143,
+            "The first reason to this is that there is a partial double bond character in the carbon-halogen bond."
+        ],
+        [
+            149,
+            "The second reason to that is the steric hindrance and electronic repulsion due to benzene ring."
+        ],
+        [
+            156,
+            "Let's discuss about this individually."
+        ],
+        [
+            160,
+            "Halogeno-arenes are generally unreactive towards nucleophilic substitution because there is partial double bond character in the carbon-halogen bond."
+        ],
+        [
+            169,
+            "How is this so? If you look at this halogeno-arene, we know that at the benzene ring there is pi electron cloud."
+        ],
+        [
+            178,
+            "Now, if you shift your attention to the halogen, you'll realize that there is p orbital with a lone pair of electrons on the halogen atom."
+        ],
+        [
+            189,
+            "And since the p orbitals are parallel with each other, delocalization of electrons can occur throughout."
+        ],
+        [
+            198,
+            "This gives rise to partial double bond character in the carbon-halogen bond due to the additional delocalization of electrons."
+        ],
+        [
+            208,
+            "To put it in statements, in the halogeno-arene molecule, a p orbital of halogen atom overlap with the pi electron cloud of the benzene ring."
+        ],
+        [
+            220,
+            "This will then allow the lone pair of electrons in p orbital of the halogen atom to delocalize into the benzene ring."
+        ],
+        [
+            229,
+            "This results in partial double bond character in the carbon-halogen bond."
+        ],
+        [
+            236,
+            "When there is a partial double bond character, more energy is required to break this than the usual single bond between carbon-halogen bond."
+        ],
+        [
+            246,
+            "The partial double bond character strengthen the carbon-halogen bond and therefore it is not easily broken."
+        ],
+        [
+            254,
+            "Next, let's discuss about the steric hindrance and electronic repulsion due to the benzene ring."
+        ],
+        [
+            262,
+            "In order to explain this, we know that there are two types of nucleophilic substitution reactions, SN1 mechanism or SN2 mechanism."
+        ],
+        [
+            272,
+            "In terms of SN2 mechanism, you will notice that if the nucleophile were to do a backside attack on the carbon, the electron-rich nucleophile will need to come close to the benzene ring of the aryl halide."
+        ],
+        [
+            290,
+            "Knowing that the benzene ring is also electron-rich due to the pi electron cloud, repulsion will occur and therefore there is no nucleophilic substitution reaction via SN2."
+        ],
+        [
+            304,
+            "How about SN1? If we look at SN1, assuming that the bond can be broken, you will then produce the carbocation that is not stabilized by resonance."
+        ],
+        [
+            320,
+            "And hence, SN1 mechanism cannot occur."
+        ],
+        [
+            326,
+            "In summary, both SN2 and SN1 reaction can't occur, therefore, halogenoarenes are generally unreactive towards nucleophilic substitution."
+        ],
+        [
+            338,
+            "It's also worth to note that halogenoalkenes are also generally unreactive towards nucleophilic substitution reaction because of a similar reason."
+        ],
+        [
+            349,
+            "So if I have this halogenoalkene and I subject it to aqueous sodium hydroxide with heat, there will be no nucleophilic substitution reaction that occur because the C-Br bond has partial double bond character and there is also steric hindrance and electronic repulsion due to pi electron cloud of the C-C double bond."
+        ],
+        [
+            372,
+            "I hope now you know the answers to these questions."
+        ],
+        [
+            375,
+            "I'll see you in the next lecture video."
+        ]
+    ],
+    "RX - Distinguishing Test": [
+        [
+            0,
+            "Hi everyone, in this part of a lecture video, you will learn about the distinguishing test."
+        ],
+        [
+            5,
+            "By the end of this lecture video, you will be able to list the reagents and conditions to carry out distinguishing tests for halogenoalkanes or halogenoarenes."
+        ],
+        [
+            16,
+            "There are two types of distinguishing tests for halogenoalkane or halogenoarenes."
+        ],
+        [
+            21,
+            "The first one is using sodium hydroxide aqueous followed by dilute nitric acid and silver nitrate via the four-step test."
+        ],
+        [
+            31,
+            "The other set of reagent and condition is to use ethanolic silver nitrate or alcoholic silver nitrate."
+        ],
+        [
+            38,
+            "Let's discuss each of these."
+        ],
+        [
+            41,
+            "We will focus on the four-step test."
+        ],
+        [
+            44,
+            "In the first scenario, we want to distinguish between different halogen atoms."
+        ],
+        [
+            48,
+            "We are going to break down the method and the purpose and explanation for each step in the method."
+        ],
+        [
+            56,
+            "Step one, we will heat each sample of R-X with sodium hydroxide in aqueous medium in a test tube."
+        ],
+        [
+            65,
+            "The purpose of this is to hydrolyse the R-X."
+        ],
+        [
+            70,
+            "We want to break the C-X bond so that it will produce the corresponding halide ion."
+        ],
+        [
+            78,
+            "The balanced chemical equation can be written in this manner."
+        ],
+        [
+            82,
+            "Next, we will cool the mixture."
+        ],
+        [
+            86,
+            "Why should we do so? This is actually to prevent the thermal decomposition of silver nitrate which will be added later in step four."
+        ],
+        [
+            97,
+            "Silver nitrate undergo thermal decomposition quite readily and therefore you do need to ensure that the mixture is cooled down sufficiently before silver nitrate is added in."
+        ],
+        [
+            108,
+            "Next, when the solution is already cold enough, we will then acidify the mixture with dilute nitric acid."
+        ],
+        [
+            120,
+            "The reason to this is to remove any excess sodium hydroxide that is being added in step one."
+        ],
+        [
+            126,
+            "Otherwise, the sodium hydroxide that is present in the reaction mixture will react with the silver nitrate that is going to be added next."
+        ],
+        [
+            137,
+            "If there is excess NaOH, what happens is that the silver ion will react with the hydroxide ion to produce the unwanted silver oxide."
+        ],
+        [
+            147,
+            "Please also take note that hydrochloric acid and sulfuric acid cannot be used for acidification here because they will also react with silver nitrate."
+        ],
+        [
+            156,
+            "Hence, only nitric acid can be used."
+        ],
+        [
+            160,
+            "If you are wondering what kind of reaction could happen, in the presence of chloride ion, silver ion will react readily to produce silver chloride solid."
+        ],
+        [
+            169,
+            "In the presence of sulfate ion, it will also react to form silver sulfate precipitate."
+        ],
+        [
+            176,
+            "After adding dilute nitric acid, we can finally add silver nitrate to the reaction mixture."
+        ],
+        [
+            182,
+            "This is to produce a precipitate of silver halide."
+        ],
+        [
+            185,
+            "The color of silver halide will help to identify which halogenoalkene is present initially."
+        ],
+        [
+            192,
+            "In summary, first we will add NaOH aqueous to each sample of halogenoalkene in test tube and then heat the mixture."
+        ],
+        [
+            202,
+            "Then we will let it cool before acidifying it with dilute nitric acid."
+        ],
+        [
+            206,
+            "Then we will add silver nitrate."
+        ],
+        [
+            208,
+            "For chloroalkene, a white PPT of AgCl will be observed."
+        ],
+        [
+            214,
+            "If it is bromoalkene, pale cream PPT will be observed."
+        ],
+        [
+            219,
+            "If it is iodoalkene, yellow PPT of silver iodide is observed."
+        ],
+        [
+            225,
+            "If we want to distinguish between halogenoalkenes and halogenoarenes, we can base this on the fact that chlorobenzene does not undergo nucleophilic substitution while chloroethane undergo nucleophilic substitution reaction."
+        ],
+        [
+            240,
+            "And hence, we can carry out the same chemical test in which for chloroethane, white PPT of AgCl will be observed, whereas for chlorobenzene, no PPT will be observed."
+        ],
+        [
+            252,
+            "To distinguish between halogenoalkenes and other functional group, we can also carry out this 4-step mechanism."
+        ],
+        [
+            260,
+            "For 1-chlorobutane, white PPT of AgCl will be observed, while for butane 1-ol, no precipitate will be observed."
+        ],
+        [
+            268,
+            "At this point, maybe you are wondering, is there any shorter way to carry out distinguishing tests? The answer is yes, you can use either ethanolic silver nitrate or alcoholic silver nitrate."
+        ],
+        [
+            280,
+            "If you use aqueous silver nitrate, you need to carry out the 4-step test."
+        ],
+        [
+            285,
+            "However, if ethanolic or alcoholic silver nitrate is available, you can use this to test for halogenoalkenes."
+        ],
+        [
+            293,
+            "The reason to this is because ethanol is able to dissolve both the halogenoalkene and silver nitrate."
+        ],
+        [
+            301,
+            "On top of that, in ethanolic silver nitrate, the ethanol molecule itself is able to act as a nucleophile and therefore producing the halide ion in the solution."
+        ],
+        [
+            312,
+            "For example, we can add ethanolic silver nitrate to each sample of 1-chlorobutane and butane 1-ol in a test tube."
+        ],
+        [
+            321,
+            "We can then warm each mixture."
+        ],
+        [
+            323,
+            "For 1-chlorobutane, a white PPT of AgCl will be observed, whereas for butane 1-ol, no PPT will be observed."
+        ],
+        [
+            332,
+            "In terms of the reaction, what happens with 1-chlorobutane is that the ethanol acts as a nucleophile in which a nucleophilic substitution reaction will then occur and the chloride ion is then being given out."
+        ],
+        [
+            349,
+            "The organic product is a protonated ether."
+        ],
+        [
+            352,
+            "The protonated ether can then undergo deprotonation to produce the ether."
+        ],
+        [
+            358,
+            "Once the chloride ion is being given out, in the presence of silver nitrate, the silver ion will react with the chloride ion to produce the white PPT of AgCl."
+        ],
+        [
+            369,
+            "Do you realise something wrong with this? In this test, the medium is not water."
+        ],
+        [
+            375,
+            "The medium is the ethanol or the alcohol itself."
+        ],
+        [
+            379,
+            "And therefore, can you please change these into alcohol? You now know the reagents and conditions to carry out distinguishing tests."
+        ],
+        [
+            389,
+            "The first one is the 4-step test in which you will use sodium hydroxide with heat, followed by cooling down the mixture before adding in the dilute nitric acid and lastly adding silver nitrate aqueous."
+        ],
+        [
+            405,
+            "The other more straightforward way of carrying out distinguishing tests is to use ethanolic silver nitrate or alcoholic silver nitrate."
+        ],
+        [
+            414,
+            "Both distinguishing tests is actually based on the nucleophilic substitution reaction to generate the halide ion and subsequently test for the presence of the halide ion using silver ion."
+        ],
+        [
+            427,
+            "With that, I'll see you in the next lecture video."
+        ]
+    ],
+    "RX - Elimination Reactions of RX": [
+        [
+            0,
+            "Hi everyone, welcome back."
+        ],
+        [
+            2,
+            "In this lecture video, you'll learn about the elimination reactions of halogenoalkanes."
+        ],
+        [
+            7,
+            "This lecture video is going to be very, very short, so please pay attention."
+        ],
+        [
+            12,
+            "By the end of this lecture video, you'll know what are the examples of the elimination reactions of halogenoalkane, as well as how to predict if a nucleophilic substitution or elimination reaction has occurred."
+        ],
+        [
+            26,
+            "halogenoalkane can undergo elimination reaction if you subject it to alcoholic KOH with heat."
+        ],
+        [
+            33,
+            "As discussed in the previous lecture video, alcoholic medium is very important because OH- in alcoholic medium behaves better as a base."
+        ],
+        [
+            45,
+            "When you use aqueous medium, nucleophilic substitution reaction will occur instead."
+        ],
+        [
+            52,
+            "The elimination reaction of halogenoalkane will produce alkene, water and the corresponding halide ion."
+        ],
+        [
+            62,
+            "In order for elimination reaction to occur on halogenoalkane, the halogenoalkane must contain a hydrogen atom that is bonded to a carbon atom that is adjacent to a carbon atom bonded to the halogen."
+        ],
+        [
+            78,
+            "While it is a mouthful, what this means is that if you want to check whether elimination reaction can occur, you must locate where is the C-X bond and then look at either side of the carbon that is involved in the C-X bond to check if the other two carbon contain hydrogen."
+        ],
+        [
+            100,
+            "Only when there is at least one hydrogen atom, elimination reaction can occur."
+        ],
+        [
+            108,
+            "Now let's take a look at the example."
+        ],
+        [
+            110,
+            "Here you have 2-bromobutane."
+        ],
+        [
+            113,
+            "When 2-bromobutane is subjected to alcoholic KOH and heat, we know that elimination reaction will occur."
+        ],
+        [
+            121,
+            "What you will do is to locate that C-Br bond and then check that the carbon that is adjacent to the C-Br carbon contain hydrogen atom."
+        ],
+        [
+            133,
+            "In this case, it fulfills the condition and therefore elimination reaction will occur."
+        ],
+        [
+            139,
+            "When elimination occurs, there are two possible products."
+        ],
+        [
+            143,
+            "The first product is a but-1-ene."
+        ],
+        [
+            146,
+            "But-1-ene will be produced if the H-Br that is in the dotted box gets eliminated."
+        ],
+        [
+            154,
+            "But-2-ene will be formed when the H-Br that is in the solid box gets eliminated."
+        ],
+        [
+            163,
+            "Comparing these two, the natural question that we will then have is that which one is the major product."
+        ],
+        [
+            170,
+            "Sidesafe rule states that for elimination reaction, the preferred alkene is the alkene with most alkyl groups attached to the doubly bonded carbon atom."
+        ],
+        [
+            181,
+            "Which means, the most highly substituted alkene will be the major product."
+        ],
+        [
+            188,
+            "So in this case, but-2-ene is a major product as compared to but-1-ene."
+        ],
+        [
+            195,
+            "Now, when 2-bromobutane form but-2-ene, you will notice that there is cis-trans isomerism that exists in but-2-ene and therefore you will have both the cis-but-2-ene and trans-but-2-ene."
+        ],
+        [
+            212,
+            "Between these two, the trans-but-2-ene will be the major product as compared to that of cis-but-2-ene because of steric reason."
+        ],
+        [
+            222,
+            "How do you then determine whether a reaction undergo nucleophilic substitution or elimination? We have already established long long time ago that many nucleophiles can also act as bases."
+        ],
+        [
+            237,
+            "For simplicity at H2 chemistry A level, you only need to remember that hydroxide ion acts as a nucleophile in aqueous medium and this reaction would then proceed via nucleophilic substitution reaction in which it can be either SN2 or SN1 mechanism depending on the type of halogenoalkene."
+        ],
+        [
+            260,
+            "When the reaction is carried out in alcoholic medium, the OH- will act as a base and therefore elimination reaction will occur."
+        ],
+        [
+            273,
+            "To conclude, what are the examples of elimination reactions of R-X? The elimination reaction of halogenoalkene will produce alkene."
+        ],
+        [
+            284,
+            "The only condition that it must fulfil is that it must have an adjacent carbon that contain hydrogen."
+        ],
+        [
+            291,
+            "When elimination reaction occur, the alkene that is being produced will follow Zaitsev rule in which the more substituted alkene will be formed as the major product."
+        ],
+        [
+            302,
+            "In H2 level, to predict if nucleophilic substitution or elimination reaction has occurred, you only need to remember about hydroxide ion."
+        ],
+        [
+            313,
+            "If you use aqueous medium, the OH- will act as a nucleophile and therefore nucleophilic substitution reaction will occur."
+        ],
+        [
+            324,
+            "If alcoholic medium is being used, the OH- will act as a base and therefore elimination reaction will occur."
+        ],
+        [
+            332,
+            "With that, I'll see you in the next lecture."
+        ]
+    ]
+}
